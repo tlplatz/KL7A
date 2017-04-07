@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{14EDB586-83B2-4B5F-B175-1062E7195D5E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KL7A</RootNamespace>
+    <AssemblyName>KL7A</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MathNet.Numerics, Version=3.17.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MathNet.Numerics.3.17.0\lib\net40\MathNet.Numerics.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ACP127.cs" />
+    <Compile Include="Configuration\IHasIndicators.cs" />
+    <Compile Include="Configuration\IValidate.cs" />
+    <Compile Include="Constants.cs" />
+    <Compile Include="Mechanical\Contact.cs" />
+    <Compile Include="DataAccess\Database.cs" />
+    <Compile Include="Utility\Extensions.cs" />
+    <Compile Include="Mechanical\FixedRotor.cs" />
+    <Compile Include="Utility\Formatting.cs" />
+    <Compile Include="Utility\IndicatorUtil.cs" />
+    <Compile Include="Utility\IntervalWiring.cs" />
+    <Compile Include="Utility\IoUtil.cs" />
+    <Compile Include="Configuration\KeySheet.cs" />
+    <Compile Include="Mechanical\Machine.cs" />
+    <Compile Include="Message.cs" />
+    <Compile Include="Configuration\MonthlySettings.cs" />
+    <Compile Include="Enums\NotchRingName.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility\RandomUtil.cs" />
+    <Compile Include="Mechanical\Rotor.cs" />
+    <Compile Include="Enums\RotorName.cs" />
+    <Compile Include="Configuration\RotorSetting.cs" />
+    <Compile Include="Configuration\Settings.cs" />
+    <Compile Include="DataAccess\Repository.cs" />
+    <Compile Include="Configuration\Wiring.cs" />
+    <Compile Include="Configuration\YearlySettings.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Documents\digital.pdf" />
+    <None Include="Documents\KL7APermutations.xlsx" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DataAccess\CreateDb.sql" />
+    <Content Include="Documents\Acp127Encrypted.txt" />
+    <Content Include="Documents\Acp127Output.txt" />
+    <Content Include="Documents\Encrypted.txt" />
+    <Content Include="Documents\KeySheet2017.txt" />
+    <Content Include="Documents\MonthlySettings.txt" />
+    <Content Include="Documents\MonthlySettings.xml" />
+    <Content Include="Documents\Settings.xml" />
+    <Content Include="Documents\Output.txt" />
+    <Content Include="Documents\Wiring.xml" />
+    <Content Include="Settings.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Year2017\Settings Apr 2017\Settings_Settings_Apr2017.txt" />
+    <Content Include="Year2017\Settings Apr 2017\Settings_Settings_Apr2017.xml" />
+    <Content Include="Year2017\Settings Aug 2017\Settings_Settings_Aug2017.txt" />
+    <Content Include="Year2017\Settings Aug 2017\Settings_Settings_Aug2017.xml" />
+    <Content Include="Year2017\Settings Dec 2017\Settings_Settings_Dec2017.txt" />
+    <Content Include="Year2017\Settings Dec 2017\Settings_Settings_Dec2017.xml" />
+    <Content Include="Year2017\Settings Feb 2017\Settings_Settings_Feb2017.txt" />
+    <Content Include="Year2017\Settings Feb 2017\Settings_Settings_Feb2017.xml" />
+    <Content Include="Year2017\Settings Jan 2017\Settings_Settings_Jan2017.txt" />
+    <Content Include="Year2017\Settings Jan 2017\Settings_Settings_Jan2017.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Year2017\Settings Jul 2017\Settings_Settings_Jul2017.txt" />
+    <Content Include="Year2017\Settings Jul 2017\Settings_Settings_Jul2017.xml" />
+    <Content Include="Year2017\Settings Jun 2017\Settings_Settings_Jun2017.txt" />
+    <Content Include="Year2017\Settings Jun 2017\Settings_Settings_Jun2017.xml" />
+    <Content Include="Year2017\Settings Mar 2017\Settings_Settings_Mar2017.txt" />
+    <Content Include="Year2017\Settings Mar 2017\Settings_Settings_Mar2017.xml" />
+    <Content Include="Year2017\Settings May 2017\Settings_Settings_May2017.txt" />
+    <Content Include="Year2017\Settings May 2017\Settings_Settings_May2017.xml" />
+    <Content Include="Year2017\Settings Nov 2017\Settings_Settings_Nov2017.txt" />
+    <Content Include="Year2017\Settings Nov 2017\Settings_Settings_Nov2017.xml" />
+    <Content Include="Year2017\Settings Oct 2017\Settings_Settings_Oct2017.txt" />
+    <Content Include="Year2017\Settings Oct 2017\Settings_Settings_Oct2017.xml" />
+    <Content Include="Year2017\Settings Sep 2017\Settings_Settings_Sep2017.txt" />
+    <Content Include="Year2017\Settings Sep 2017\Settings_Settings_Sep2017.xml" />
+    <Content Include="Documents\Yearly.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

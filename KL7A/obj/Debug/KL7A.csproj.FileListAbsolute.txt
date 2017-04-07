@@ -1,0 +1,7 @@
+C:\Users\tlplatz.WIZARDNET.002\Desktop\SourceCode\KL7A\KL7A\bin\Debug\KL7A.exe.config
+C:\Users\tlplatz.WIZARDNET.002\Desktop\SourceCode\KL7A\KL7A\bin\Debug\KL7A.exe
+C:\Users\tlplatz.WIZARDNET.002\Desktop\SourceCode\KL7A\KL7A\bin\Debug\KL7A.pdb
+C:\Users\tlplatz.WIZARDNET.002\Desktop\SourceCode\KL7A\KL7A\obj\Debug\KL7A.exe
+C:\Users\tlplatz.WIZARDNET.002\Desktop\SourceCode\KL7A\KL7A\obj\Debug\KL7A.pdb
+C:\Users\tlplatz.WIZARDNET.002\Desktop\SourceCode\KL7A\KL7A\bin\Debug\MathNet.Numerics.dll
+C:\Users\tlplatz.WIZARDNET.002\Desktop\SourceCode\KL7A\KL7A\bin\Debug\MathNet.Numerics.xml

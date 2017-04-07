@@ -1,0 +1,138 @@
+﻿DAY |          ROTOR          |        NOTCH RING       |   START   | 36-45 CHAR  | INDI-
+    |         SETTINGS        |         SETTINGS        | POSITION  | CHECK GRPS  | CATOR
+----+-------------------------+-------------------------+-----------+-------------+-------
+ 27 |  C  J  E  B  A  F  N  G |  4  8 16 13 14 11  9  6 | DSHU QSNX | TWXAL IOFVI | MADLP
+    | 09 36 26 33 06 34 20 29 |  F E+  T  X  B B+ R+  W |           |             | 71247
+----+-------------------------+-------------------------+-----------+-------------+-------
+
+
+Message Key
+VQQTN
+
+Plain Text
+We intend to begin on the first of February unrestricted
+submarine warfare. We shall endeavor in spite of this to keep
+the United States of America neutral. In the event of this not
+succeeding, we make Mexico a proposal of alliance on the
+following basis: make war together, make peace together,
+generous financial support and an understanding on our part that
+Mexico is to reconquer the lost territory in Texas, New Mexico,
+and Arizona. The settlement in detail is left to you. You will
+inform the President of the above most secretly as soon as the
+outbreak of war with the United States of America is certain and
+add the suggestion that he should, on his own initiative, invite
+Japan to immediate adherence and at the same time mediate
+between Japan and ourselves. Please call the President's
+attention to the fact that the ruthless employment of our
+submarines now offers the prospect of compelling England in a
+few months to make peace. Signed, ZIMMERMANN
+
+Cipher text
+71247 VICTOR QUEBEC QUEBEC TANGO NOVEMBER
+AKBOO ULOQK THUBE DMZOZ DNFFM VLMJR GFART TZSCP NEQAC RKNTB
+ZBYLP VDBZK VCCZO NCZLJ DBMGE LURTH DDYSC FVHUJ PCXPT ZPFIM
+WFAEQ HMVWN WGWVS CHAPD YQACR DQBOO RYBOK QUPRA JREQC FSJOA
+LPKUW HVEZZ VUILC DWMAE BFGXB UBRKU SSNNV EDSKZ YOUDY HUVLU
+HQRYK WTAYV DJHFT NFPCG HHJDT PBQML IVSPQ FXSNO PIQOV EWHVG
+LLMEL EXWSY LGMZF QLETM GTKHE PQSFV VNPJA USWSR GBPUO ZXMHX
+MSRVA XJCJC BWJMW NPDJO XQJWY WPMIL NEYSY XNTBF BSVFN LWFGS
+XTWHD WONIX IGSBK YEDPF NHHWO NHEAQ CAYOT IUFIJ RFFLN RVXDN
+DQSNG PQLIA NAEBT ZCWRM TRQBR NHMLN GRNUS FBCFC GTEIL NKEHK
+AIRDL TNSZF SCPYW KXZCP GVTFZ XIELQ RFKSL BZEIW YAWLX OMDVK
+
+MSINW FYMEY YUQGJ HVUDT DJVIP OSORB JQTYD RTXTY MZSTA IQKNC
+TEFSO GRVXW SGUUI LJRAH OZZNM SNIDE TBCZG KSPNP QHFBT PNBEM
+EHHLG VGSVM EEFHM EWNOS HYNSK XXCPJ XYOVD OTOBL YEEXO JTSUE
+BJPMQ ZMRVJ VYJPW XFOFV HJMDJ QCRXA EIIMX XAZEQ IFEVU LGTYG
+BUHUI EACLU GUGPN SDKBE WOIML TMREA YOOKV OHIIX IBVTR FZQPK
+TATXK FIYAZ XBKCT DDJAF OTJVX AAJJK PEWIG RVRCJ VEIKX QBWAE
+YLUOU CCGJB YMKAW WFHIT CCODY ZGBKV AXOBA TAZZZ PXDBW HZNIH
+JHXYC SYHOP TDLKV PRXGP SIRNK PNPIX FWYAQ UUMZA GZFLI KNSJH
+MXQVA GJJVL OIBYC ATQOM BGADV DDBFT LLOCB LGMKK CKMQM XBFBH
+XPPFD XDRGX VTRWV FLQNR GFJGV SSZLJ BUANU QCMJK IOINP POIDG
+
+ZXUHE FDOYX YVFLZ AWWUH VNFIR ABOCZ AICSD KJHDU NKCYP CQMTI
+ASAWG QKDMJ SCYRJ XTPPB XCAAL KCKUR NHEGG UUMZB 71247
+
+Groups
+218
+
+Character Distribution
+A = 47  E = 43  I = 42  M = 42  Q = 36  U = 38  Y = 39
+B = 46  F = 46  J = 42  N = 47  R = 39  V = 46  Z = 39
+C = 43  G = 41  K = 42  O = 44  S = 43  W = 37
+D = 42  H = 41  L = 41  P = 44  T = 44  X = 44
+
+Histogram
+A = ooooooooooooooooooooooooooooooooooooooooooooooo
+B = oooooooooooooooooooooooooooooooooooooooooooooo
+C = ooooooooooooooooooooooooooooooooooooooooooo
+D = oooooooooooooooooooooooooooooooooooooooooo
+E = ooooooooooooooooooooooooooooooooooooooooooo
+F = oooooooooooooooooooooooooooooooooooooooooooooo
+G = ooooooooooooooooooooooooooooooooooooooooo
+H = ooooooooooooooooooooooooooooooooooooooooo
+I = oooooooooooooooooooooooooooooooooooooooooo
+J = oooooooooooooooooooooooooooooooooooooooooo
+K = oooooooooooooooooooooooooooooooooooooooooo
+L = ooooooooooooooooooooooooooooooooooooooooo
+M = oooooooooooooooooooooooooooooooooooooooooo
+N = ooooooooooooooooooooooooooooooooooooooooooooooo
+O = oooooooooooooooooooooooooooooooooooooooooooo
+P = oooooooooooooooooooooooooooooooooooooooooooo
+Q = oooooooooooooooooooooooooooooooooooo
+R = ooooooooooooooooooooooooooooooooooooooo
+S = ooooooooooooooooooooooooooooooooooooooooooo
+T = oooooooooooooooooooooooooooooooooooooooooooo
+U = oooooooooooooooooooooooooooooooooooooo
+V = oooooooooooooooooooooooooooooooooooooooooooooo
+W = ooooooooooooooooooooooooooooooooooooo
+X = oooooooooooooooooooooooooooooooooooooooooooo
+Y = ooooooooooooooooooooooooooooooooooooooo
+Z = ooooooooooooooooooooooooooooooooooooooo
+
+Statistics
+Count = 26.00
+Mean = 42.23
+Variance = 8.90
+StandardDeviation = 2.98
+Skewness = -0.27
+Kurtosis = -0.45
+Maximum = 47.00
+Minimum = 36.00
+
+Rotor Move Counts
+3 = 401
+4 = 283
+5 = 199
+6 = 168
+7 = 42
+8 = 5
+
+Reflex Counts
+0 = 782
+1 = 241
+2 = 57
+3 = 16
+4 = 1
+5 = 1
+
+Deciphered Text
+WE INTEND TO BEGIN ON THE FIRST OF FEBRUARY UNRESTRICTED
+SUBMARINE WARFARE. WE SHALL ENDEAVOR IN SPITE OF THIS TO KEEP
+THE UNITED STATES OF AMERICA NEUTRAL. IN THE EVENT OF THIS NOT
+SUCCEEDING, WE MAKE MEXICO A PROPOSAL OF ALLIANCE ON THE
+FOLLOWING BASIS: MAKE WAR TOGETHER, MAKE PEACE TOGETHER,
+GENEROUS FINANCIAL SUPPORT AND AN UNDERSTANDING ON OUR PART THAT
+MEXICO IS TO RECONQUER THE LOST TERRITORY IN TEXAS, NEW MEXICO,
+AND ARIZONA. THE SETTLEMENT IN DETAIL IS LEFT TO YOU. YOU WILL
+INFORM THE PRESIDENT OF THE ABOVE MOST SECRETLY AS SOON AS THE
+OUTBREAK OF WAR WITH THE UNITED STATES OF AMERICA IS CERTAIN AND
+ADD THE SUGGESTION THAT HE SHOULD, ON HIS OWN INITIATIVE, INVITE
+JAPAN TO IMMEDIATE ADHERENCE AND AT THE SAME TIME MEDIATE
+BETWEEN JAPAN AND OURSELVES. PLEASE CALL THE PRESIDENT'S
+ATTENTION TO THE FACT THAT THE RUTHLESS EMPLOYMENT OF OUR
+SUBMARINES NOW OFFERS THE PROSPECT OF COMPELLING ENGLAND IN A
+FEW MONTHS TO MAKE PEACE. SIGNED, ZIMMERMANN
+
+Press any key...

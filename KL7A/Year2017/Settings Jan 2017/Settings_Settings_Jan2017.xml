@@ -1,0 +1,674 @@
+<?xml version="1.0"?>
+<MonthlySettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="18" Name="Settings" Classification="Secret" Date="2017-01-01T00:00:00" Indicator="LAQSP" NumericIndicator="70770" ParentId="8">
+  <DailySettings>
+    <Settings Id="551" Date="2017-01-31T00:00:00" Indicator="DDKNR" NumericIndicator="31375" StartPosition="RJOPOKOB" Check="UBQGEREAOK" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4401" RotorName="RotorL" AlphabetRingPosition="12" NotchRingName="NotchRing5" NotchRingPosition="7" ParentId="551" />
+        <RotorSetting Id="4402" RotorName="RotorJ" AlphabetRingPosition="18" NotchRingName="NotchRing16" NotchRingPosition="28" ParentId="551" />
+        <RotorSetting Id="4403" RotorName="RotorD" AlphabetRingPosition="12" NotchRingName="NotchRing13" NotchRingPosition="35" ParentId="551" />
+        <RotorSetting Id="4404" RotorName="RotorH" AlphabetRingPosition="33" NotchRingName="NotchRing9" NotchRingPosition="5" ParentId="551" />
+        <RotorSetting Id="4405" RotorName="RotorE" AlphabetRingPosition="1" NotchRingName="NotchRing4" NotchRingPosition="16" ParentId="551" />
+        <RotorSetting Id="4406" RotorName="RotorF" AlphabetRingPosition="12" NotchRingName="NotchRing12" NotchRingPosition="4" ParentId="551" />
+        <RotorSetting Id="4407" RotorName="RotorO" AlphabetRingPosition="34" NotchRingName="NotchRing2" NotchRingPosition="25" ParentId="551" />
+        <RotorSetting Id="4408" RotorName="RotorK" AlphabetRingPosition="26" NotchRingName="NotchRing8" NotchRingPosition="10" ParentId="551" />
+      </Rotors>
+    </Settings>
+    <Settings Id="550" Date="2017-01-30T00:00:00" Indicator="JSECP" NumericIndicator="93046" StartPosition="QKOAUPVQ" Check="XAUIOHCXAP" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4393" RotorName="RotorA" AlphabetRingPosition="3" NotchRingName="NotchRing14" NotchRingPosition="2" ParentId="550" />
+        <RotorSetting Id="4394" RotorName="RotorH" AlphabetRingPosition="31" NotchRingName="NotchRing8" NotchRingPosition="3" ParentId="550" />
+        <RotorSetting Id="4395" RotorName="RotorO" AlphabetRingPosition="7" NotchRingName="NotchRing2" NotchRingPosition="13" ParentId="550" />
+        <RotorSetting Id="4396" RotorName="RotorP" AlphabetRingPosition="29" NotchRingName="NotchRing9" NotchRingPosition="26" ParentId="550" />
+        <RotorSetting Id="4397" RotorName="RotorI" AlphabetRingPosition="18" NotchRingName="NotchRing5" NotchRingPosition="14" ParentId="550" />
+        <RotorSetting Id="4398" RotorName="RotorJ" AlphabetRingPosition="18" NotchRingName="NotchRing4" NotchRingPosition="32" ParentId="550" />
+        <RotorSetting Id="4399" RotorName="RotorM" AlphabetRingPosition="9" NotchRingName="NotchRing10" NotchRingPosition="32" ParentId="550" />
+        <RotorSetting Id="4400" RotorName="RotorF" AlphabetRingPosition="6" NotchRingName="NotchRing1" NotchRingPosition="2" ParentId="550" />
+      </Rotors>
+    </Settings>
+    <Settings Id="549" Date="2017-01-29T00:00:00" Indicator="TVXCM" NumericIndicator="93406" StartPosition="KCTDCALL" Check="EPUWGTOKQV" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4385" RotorName="RotorL" AlphabetRingPosition="29" NotchRingName="NotchRing13" NotchRingPosition="9" ParentId="549" />
+        <RotorSetting Id="4386" RotorName="RotorG" AlphabetRingPosition="3" NotchRingName="NotchRing12" NotchRingPosition="26" ParentId="549" />
+        <RotorSetting Id="4387" RotorName="RotorP" AlphabetRingPosition="5" NotchRingName="NotchRing10" NotchRingPosition="18" ParentId="549" />
+        <RotorSetting Id="4388" RotorName="RotorA" AlphabetRingPosition="14" NotchRingName="NotchRing16" NotchRingPosition="6" ParentId="549" />
+        <RotorSetting Id="4389" RotorName="RotorD" AlphabetRingPosition="2" NotchRingName="NotchRing6" NotchRingPosition="24" ParentId="549" />
+        <RotorSetting Id="4390" RotorName="RotorJ" AlphabetRingPosition="10" NotchRingName="NotchRing5" NotchRingPosition="33" ParentId="549" />
+        <RotorSetting Id="4391" RotorName="RotorE" AlphabetRingPosition="25" NotchRingName="NotchRing14" NotchRingPosition="1" ParentId="549" />
+        <RotorSetting Id="4392" RotorName="RotorN" AlphabetRingPosition="27" NotchRingName="NotchRing11" NotchRingPosition="26" ParentId="549" />
+      </Rotors>
+    </Settings>
+    <Settings Id="548" Date="2017-01-28T00:00:00" Indicator="UONDP" NumericIndicator="32733" StartPosition="JRAEHBXN" Check="UHYDABHLWG" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4377" RotorName="RotorK" AlphabetRingPosition="2" NotchRingName="NotchRing11" NotchRingPosition="30" ParentId="548" />
+        <RotorSetting Id="4378" RotorName="RotorJ" AlphabetRingPosition="21" NotchRingName="NotchRing5" NotchRingPosition="23" ParentId="548" />
+        <RotorSetting Id="4379" RotorName="RotorP" AlphabetRingPosition="26" NotchRingName="NotchRing2" NotchRingPosition="20" ParentId="548" />
+        <RotorSetting Id="4380" RotorName="RotorL" AlphabetRingPosition="4" NotchRingName="NotchRing7" NotchRingPosition="27" ParentId="548" />
+        <RotorSetting Id="4381" RotorName="RotorA" AlphabetRingPosition="8" NotchRingName="NotchRing1" NotchRingPosition="24" ParentId="548" />
+        <RotorSetting Id="4382" RotorName="RotorD" AlphabetRingPosition="2" NotchRingName="NotchRing14" NotchRingPosition="9" ParentId="548" />
+        <RotorSetting Id="4383" RotorName="RotorI" AlphabetRingPosition="25" NotchRingName="NotchRing10" NotchRingPosition="7" ParentId="548" />
+        <RotorSetting Id="4384" RotorName="RotorB" AlphabetRingPosition="21" NotchRingName="NotchRing3" NotchRingPosition="34" ParentId="548" />
+      </Rotors>
+    </Settings>
+    <Settings Id="547" Date="2017-01-27T00:00:00" Indicator="YXCSV" NumericIndicator="79528" StartPosition="UHQRJJDE" Check="NVSURATQAP" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4369" RotorName="RotorP" AlphabetRingPosition="6" NotchRingName="NotchRing15" NotchRingPosition="19" ParentId="547" />
+        <RotorSetting Id="4370" RotorName="RotorI" AlphabetRingPosition="13" NotchRingName="NotchRing8" NotchRingPosition="8" ParentId="547" />
+        <RotorSetting Id="4371" RotorName="RotorG" AlphabetRingPosition="23" NotchRingName="NotchRing12" NotchRingPosition="13" ParentId="547" />
+        <RotorSetting Id="4372" RotorName="RotorK" AlphabetRingPosition="13" NotchRingName="NotchRing14" NotchRingPosition="30" ParentId="547" />
+        <RotorSetting Id="4373" RotorName="RotorF" AlphabetRingPosition="16" NotchRingName="NotchRing1" NotchRingPosition="31" ParentId="547" />
+        <RotorSetting Id="4374" RotorName="RotorA" AlphabetRingPosition="22" NotchRingName="NotchRing7" NotchRingPosition="34" ParentId="547" />
+        <RotorSetting Id="4375" RotorName="RotorC" AlphabetRingPosition="12" NotchRingName="NotchRing9" NotchRingPosition="29" ParentId="547" />
+        <RotorSetting Id="4376" RotorName="RotorL" AlphabetRingPosition="34" NotchRingName="NotchRing11" NotchRingPosition="2" ParentId="547" />
+      </Rotors>
+    </Settings>
+    <Settings Id="546" Date="2017-01-26T00:00:00" Indicator="FWDOZ" NumericIndicator="38653" StartPosition="BACJHESI" Check="DWJWFQLJNY" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4361" RotorName="RotorN" AlphabetRingPosition="15" NotchRingName="NotchRing12" NotchRingPosition="2" ParentId="546" />
+        <RotorSetting Id="4362" RotorName="RotorO" AlphabetRingPosition="23" NotchRingName="NotchRing11" NotchRingPosition="16" ParentId="546" />
+        <RotorSetting Id="4363" RotorName="RotorP" AlphabetRingPosition="23" NotchRingName="NotchRing13" NotchRingPosition="0" ParentId="546" />
+        <RotorSetting Id="4364" RotorName="RotorD" AlphabetRingPosition="12" NotchRingName="NotchRing10" NotchRingPosition="12" ParentId="546" />
+        <RotorSetting Id="4365" RotorName="RotorI" AlphabetRingPosition="28" NotchRingName="NotchRing1" NotchRingPosition="15" ParentId="546" />
+        <RotorSetting Id="4366" RotorName="RotorC" AlphabetRingPosition="4" NotchRingName="NotchRing3" NotchRingPosition="10" ParentId="546" />
+        <RotorSetting Id="4367" RotorName="RotorE" AlphabetRingPosition="25" NotchRingName="NotchRing6" NotchRingPosition="26" ParentId="546" />
+        <RotorSetting Id="4368" RotorName="RotorH" AlphabetRingPosition="27" NotchRingName="NotchRing5" NotchRingPosition="1" ParentId="546" />
+      </Rotors>
+    </Settings>
+    <Settings Id="545" Date="2017-01-25T00:00:00" Indicator="VOOBN" NumericIndicator="53029" StartPosition="OJZBLUVG" Check="UMWUOEEQTA" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4353" RotorName="RotorP" AlphabetRingPosition="26" NotchRingName="NotchRing11" NotchRingPosition="21" ParentId="545" />
+        <RotorSetting Id="4354" RotorName="RotorO" AlphabetRingPosition="5" NotchRingName="NotchRing5" NotchRingPosition="34" ParentId="545" />
+        <RotorSetting Id="4355" RotorName="RotorJ" AlphabetRingPosition="21" NotchRingName="NotchRing16" NotchRingPosition="6" ParentId="545" />
+        <RotorSetting Id="4356" RotorName="RotorF" AlphabetRingPosition="3" NotchRingName="NotchRing10" NotchRingPosition="9" ParentId="545" />
+        <RotorSetting Id="4357" RotorName="RotorC" AlphabetRingPosition="8" NotchRingName="NotchRing14" NotchRingPosition="26" ParentId="545" />
+        <RotorSetting Id="4358" RotorName="RotorA" AlphabetRingPosition="32" NotchRingName="NotchRing13" NotchRingPosition="5" ParentId="545" />
+        <RotorSetting Id="4359" RotorName="RotorE" AlphabetRingPosition="14" NotchRingName="NotchRing4" NotchRingPosition="21" ParentId="545" />
+        <RotorSetting Id="4360" RotorName="RotorB" AlphabetRingPosition="14" NotchRingName="NotchRing12" NotchRingPosition="0" ParentId="545" />
+      </Rotors>
+    </Settings>
+    <Settings Id="544" Date="2017-01-24T00:00:00" Indicator="KVMIV" NumericIndicator="39931" StartPosition="IKKQUSRO" Check="DZNJDQFSKT" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4345" RotorName="RotorF" AlphabetRingPosition="12" NotchRingName="NotchRing11" NotchRingPosition="11" ParentId="544" />
+        <RotorSetting Id="4346" RotorName="RotorK" AlphabetRingPosition="2" NotchRingName="NotchRing1" NotchRingPosition="32" ParentId="544" />
+        <RotorSetting Id="4347" RotorName="RotorI" AlphabetRingPosition="13" NotchRingName="NotchRing4" NotchRingPosition="27" ParentId="544" />
+        <RotorSetting Id="4348" RotorName="RotorC" AlphabetRingPosition="30" NotchRingName="NotchRing9" NotchRingPosition="16" ParentId="544" />
+        <RotorSetting Id="4349" RotorName="RotorJ" AlphabetRingPosition="17" NotchRingName="NotchRing5" NotchRingPosition="33" ParentId="544" />
+        <RotorSetting Id="4350" RotorName="RotorN" AlphabetRingPosition="5" NotchRingName="NotchRing3" NotchRingPosition="20" ParentId="544" />
+        <RotorSetting Id="4351" RotorName="RotorB" AlphabetRingPosition="30" NotchRingName="NotchRing7" NotchRingPosition="21" ParentId="544" />
+        <RotorSetting Id="4352" RotorName="RotorO" AlphabetRingPosition="14" NotchRingName="NotchRing8" NotchRingPosition="33" ParentId="544" />
+      </Rotors>
+    </Settings>
+    <Settings Id="543" Date="2017-01-23T00:00:00" Indicator="CPUCP" NumericIndicator="91301" StartPosition="IPOWIONR" Check="ZBNXFFOEKQ" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4337" RotorName="RotorL" AlphabetRingPosition="5" NotchRingName="NotchRing10" NotchRingPosition="7" ParentId="543" />
+        <RotorSetting Id="4338" RotorName="RotorJ" AlphabetRingPosition="10" NotchRingName="NotchRing4" NotchRingPosition="18" ParentId="543" />
+        <RotorSetting Id="4339" RotorName="RotorG" AlphabetRingPosition="27" NotchRingName="NotchRing9" NotchRingPosition="13" ParentId="543" />
+        <RotorSetting Id="4340" RotorName="RotorO" AlphabetRingPosition="6" NotchRingName="NotchRing1" NotchRingPosition="30" ParentId="543" />
+        <RotorSetting Id="4341" RotorName="RotorB" AlphabetRingPosition="0" NotchRingName="NotchRing15" NotchRingPosition="11" ParentId="543" />
+        <RotorSetting Id="4342" RotorName="RotorH" AlphabetRingPosition="19" NotchRingName="NotchRing12" NotchRingPosition="0" ParentId="543" />
+        <RotorSetting Id="4343" RotorName="RotorI" AlphabetRingPosition="31" NotchRingName="NotchRing13" NotchRingPosition="34" ParentId="543" />
+        <RotorSetting Id="4344" RotorName="RotorE" AlphabetRingPosition="15" NotchRingName="NotchRing11" NotchRingPosition="25" ParentId="543" />
+      </Rotors>
+    </Settings>
+    <Settings Id="542" Date="2017-01-22T00:00:00" Indicator="PQYXR" NumericIndicator="54899" StartPosition="MDFOHYXZ" Check="SHQKCYGUSC" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4329" RotorName="RotorI" AlphabetRingPosition="20" NotchRingName="NotchRing6" NotchRingPosition="33" ParentId="542" />
+        <RotorSetting Id="4330" RotorName="RotorO" AlphabetRingPosition="1" NotchRingName="NotchRing2" NotchRingPosition="13" ParentId="542" />
+        <RotorSetting Id="4331" RotorName="RotorL" AlphabetRingPosition="6" NotchRingName="NotchRing15" NotchRingPosition="30" ParentId="542" />
+        <RotorSetting Id="4332" RotorName="RotorM" AlphabetRingPosition="2" NotchRingName="NotchRing16" NotchRingPosition="1" ParentId="542" />
+        <RotorSetting Id="4333" RotorName="RotorG" AlphabetRingPosition="20" NotchRingName="NotchRing3" NotchRingPosition="26" ParentId="542" />
+        <RotorSetting Id="4334" RotorName="RotorA" AlphabetRingPosition="19" NotchRingName="NotchRing11" NotchRingPosition="23" ParentId="542" />
+        <RotorSetting Id="4335" RotorName="RotorE" AlphabetRingPosition="31" NotchRingName="NotchRing9" NotchRingPosition="29" ParentId="542" />
+        <RotorSetting Id="4336" RotorName="RotorP" AlphabetRingPosition="26" NotchRingName="NotchRing12" NotchRingPosition="22" ParentId="542" />
+      </Rotors>
+    </Settings>
+    <Settings Id="541" Date="2017-01-21T00:00:00" Indicator="SXQAR" NumericIndicator="42359" StartPosition="ESZRXLRW" Check="WTUMPWKHEQ" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4321" RotorName="RotorA" AlphabetRingPosition="22" NotchRingName="NotchRing8" NotchRingPosition="6" ParentId="541" />
+        <RotorSetting Id="4322" RotorName="RotorL" AlphabetRingPosition="15" NotchRingName="NotchRing4" NotchRingPosition="13" ParentId="541" />
+        <RotorSetting Id="4323" RotorName="RotorH" AlphabetRingPosition="29" NotchRingName="NotchRing10" NotchRingPosition="30" ParentId="541" />
+        <RotorSetting Id="4324" RotorName="RotorO" AlphabetRingPosition="22" NotchRingName="NotchRing6" NotchRingPosition="30" ParentId="541" />
+        <RotorSetting Id="4325" RotorName="RotorN" AlphabetRingPosition="2" NotchRingName="NotchRing14" NotchRingPosition="21" ParentId="541" />
+        <RotorSetting Id="4326" RotorName="RotorI" AlphabetRingPosition="9" NotchRingName="NotchRing9" NotchRingPosition="16" ParentId="541" />
+        <RotorSetting Id="4327" RotorName="RotorE" AlphabetRingPosition="32" NotchRingName="NotchRing12" NotchRingPosition="18" ParentId="541" />
+        <RotorSetting Id="4328" RotorName="RotorP" AlphabetRingPosition="2" NotchRingName="NotchRing5" NotchRingPosition="34" ParentId="541" />
+      </Rotors>
+    </Settings>
+    <Settings Id="540" Date="2017-01-20T00:00:00" Indicator="PUYBN" NumericIndicator="70020" StartPosition="FOGEDOQS" Check="PQFUJLKVHB" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4313" RotorName="RotorG" AlphabetRingPosition="25" NotchRingName="NotchRing2" NotchRingPosition="27" ParentId="540" />
+        <RotorSetting Id="4314" RotorName="RotorF" AlphabetRingPosition="16" NotchRingName="NotchRing16" NotchRingPosition="34" ParentId="540" />
+        <RotorSetting Id="4315" RotorName="RotorM" AlphabetRingPosition="2" NotchRingName="NotchRing15" NotchRingPosition="26" ParentId="540" />
+        <RotorSetting Id="4316" RotorName="RotorP" AlphabetRingPosition="4" NotchRingName="NotchRing4" NotchRingPosition="28" ParentId="540" />
+        <RotorSetting Id="4317" RotorName="RotorN" AlphabetRingPosition="33" NotchRingName="NotchRing11" NotchRingPosition="27" ParentId="540" />
+        <RotorSetting Id="4318" RotorName="RotorE" AlphabetRingPosition="34" NotchRingName="NotchRing7" NotchRingPosition="10" ParentId="540" />
+        <RotorSetting Id="4319" RotorName="RotorH" AlphabetRingPosition="1" NotchRingName="NotchRing14" NotchRingPosition="18" ParentId="540" />
+        <RotorSetting Id="4320" RotorName="RotorL" AlphabetRingPosition="30" NotchRingName="NotchRing6" NotchRingPosition="28" ParentId="540" />
+      </Rotors>
+    </Settings>
+    <Settings Id="539" Date="2017-01-19T00:00:00" Indicator="IJRWG" NumericIndicator="01233" StartPosition="TLMLEKFD" Check="JYFTVOVBYC" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4305" RotorName="RotorH" AlphabetRingPosition="8" NotchRingName="NotchRing16" NotchRingPosition="16" ParentId="539" />
+        <RotorSetting Id="4306" RotorName="RotorL" AlphabetRingPosition="33" NotchRingName="NotchRing5" NotchRingPosition="35" ParentId="539" />
+        <RotorSetting Id="4307" RotorName="RotorG" AlphabetRingPosition="0" NotchRingName="NotchRing12" NotchRingPosition="13" ParentId="539" />
+        <RotorSetting Id="4308" RotorName="RotorE" AlphabetRingPosition="0" NotchRingName="NotchRing7" NotchRingPosition="4" ParentId="539" />
+        <RotorSetting Id="4309" RotorName="RotorI" AlphabetRingPosition="20" NotchRingName="NotchRing2" NotchRingPosition="9" ParentId="539" />
+        <RotorSetting Id="4310" RotorName="RotorM" AlphabetRingPosition="23" NotchRingName="NotchRing15" NotchRingPosition="12" ParentId="539" />
+        <RotorSetting Id="4311" RotorName="RotorB" AlphabetRingPosition="17" NotchRingName="NotchRing11" NotchRingPosition="10" ParentId="539" />
+        <RotorSetting Id="4312" RotorName="RotorF" AlphabetRingPosition="33" NotchRingName="NotchRing4" NotchRingPosition="33" ParentId="539" />
+      </Rotors>
+    </Settings>
+    <Settings Id="538" Date="2017-01-18T00:00:00" Indicator="DHIOC" NumericIndicator="49081" StartPosition="PJWGSQQL" Check="TEYONLOUGX" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4297" RotorName="RotorO" AlphabetRingPosition="23" NotchRingName="NotchRing6" NotchRingPosition="11" ParentId="538" />
+        <RotorSetting Id="4298" RotorName="RotorD" AlphabetRingPosition="34" NotchRingName="NotchRing5" NotchRingPosition="2" ParentId="538" />
+        <RotorSetting Id="4299" RotorName="RotorL" AlphabetRingPosition="4" NotchRingName="NotchRing15" NotchRingPosition="1" ParentId="538" />
+        <RotorSetting Id="4300" RotorName="RotorG" AlphabetRingPosition="20" NotchRingName="NotchRing10" NotchRingPosition="12" ParentId="538" />
+        <RotorSetting Id="4301" RotorName="RotorC" AlphabetRingPosition="9" NotchRingName="NotchRing16" NotchRingPosition="14" ParentId="538" />
+        <RotorSetting Id="4302" RotorName="RotorK" AlphabetRingPosition="15" NotchRingName="NotchRing3" NotchRingPosition="16" ParentId="538" />
+        <RotorSetting Id="4303" RotorName="RotorA" AlphabetRingPosition="20" NotchRingName="NotchRing9" NotchRingPosition="20" ParentId="538" />
+        <RotorSetting Id="4304" RotorName="RotorP" AlphabetRingPosition="15" NotchRingName="NotchRing11" NotchRingPosition="29" ParentId="538" />
+      </Rotors>
+    </Settings>
+    <Settings Id="537" Date="2017-01-17T00:00:00" Indicator="WOCUT" NumericIndicator="21542" StartPosition="TNKKCFEJ" Check="XVQSYHTYSF" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4289" RotorName="RotorL" AlphabetRingPosition="21" NotchRingName="NotchRing1" NotchRingPosition="16" ParentId="537" />
+        <RotorSetting Id="4290" RotorName="RotorP" AlphabetRingPosition="0" NotchRingName="NotchRing3" NotchRingPosition="9" ParentId="537" />
+        <RotorSetting Id="4291" RotorName="RotorI" AlphabetRingPosition="15" NotchRingName="NotchRing13" NotchRingPosition="3" ParentId="537" />
+        <RotorSetting Id="4292" RotorName="RotorN" AlphabetRingPosition="7" NotchRingName="NotchRing15" NotchRingPosition="13" ParentId="537" />
+        <RotorSetting Id="4293" RotorName="RotorM" AlphabetRingPosition="29" NotchRingName="NotchRing9" NotchRingPosition="34" ParentId="537" />
+        <RotorSetting Id="4294" RotorName="RotorE" AlphabetRingPosition="33" NotchRingName="NotchRing16" NotchRingPosition="10" ParentId="537" />
+        <RotorSetting Id="4295" RotorName="RotorO" AlphabetRingPosition="27" NotchRingName="NotchRing6" NotchRingPosition="14" ParentId="537" />
+        <RotorSetting Id="4296" RotorName="RotorA" AlphabetRingPosition="34" NotchRingName="NotchRing5" NotchRingPosition="15" ParentId="537" />
+      </Rotors>
+    </Settings>
+    <Settings Id="536" Date="2017-01-16T00:00:00" Indicator="CVELL" NumericIndicator="95348" StartPosition="THENZCRE" Check="TKQLPFIBDL" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4281" RotorName="RotorL" AlphabetRingPosition="22" NotchRingName="NotchRing5" NotchRingPosition="24" ParentId="536" />
+        <RotorSetting Id="4282" RotorName="RotorM" AlphabetRingPosition="1" NotchRingName="NotchRing13" NotchRingPosition="23" ParentId="536" />
+        <RotorSetting Id="4283" RotorName="RotorH" AlphabetRingPosition="9" NotchRingName="NotchRing10" NotchRingPosition="23" ParentId="536" />
+        <RotorSetting Id="4284" RotorName="RotorB" AlphabetRingPosition="8" NotchRingName="NotchRing8" NotchRingPosition="19" ParentId="536" />
+        <RotorSetting Id="4285" RotorName="RotorG" AlphabetRingPosition="3" NotchRingName="NotchRing2" NotchRingPosition="9" ParentId="536" />
+        <RotorSetting Id="4286" RotorName="RotorI" AlphabetRingPosition="19" NotchRingName="NotchRing14" NotchRingPosition="28" ParentId="536" />
+        <RotorSetting Id="4287" RotorName="RotorO" AlphabetRingPosition="29" NotchRingName="NotchRing16" NotchRingPosition="14" ParentId="536" />
+        <RotorSetting Id="4288" RotorName="RotorC" AlphabetRingPosition="26" NotchRingName="NotchRing11" NotchRingPosition="2" ParentId="536" />
+      </Rotors>
+    </Settings>
+    <Settings Id="535" Date="2017-01-15T00:00:00" Indicator="JWSRN" NumericIndicator="98506" StartPosition="QSLVAWAT" Check="VQQFHAHHWD" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4273" RotorName="RotorL" AlphabetRingPosition="10" NotchRingName="NotchRing8" NotchRingPosition="13" ParentId="535" />
+        <RotorSetting Id="4274" RotorName="RotorA" AlphabetRingPosition="18" NotchRingName="NotchRing13" NotchRingPosition="4" ParentId="535" />
+        <RotorSetting Id="4275" RotorName="RotorD" AlphabetRingPosition="35" NotchRingName="NotchRing4" NotchRingPosition="35" ParentId="535" />
+        <RotorSetting Id="4276" RotorName="RotorF" AlphabetRingPosition="7" NotchRingName="NotchRing5" NotchRingPosition="8" ParentId="535" />
+        <RotorSetting Id="4277" RotorName="RotorJ" AlphabetRingPosition="25" NotchRingName="NotchRing11" NotchRingPosition="18" ParentId="535" />
+        <RotorSetting Id="4278" RotorName="RotorO" AlphabetRingPosition="10" NotchRingName="NotchRing7" NotchRingPosition="10" ParentId="535" />
+        <RotorSetting Id="4279" RotorName="RotorP" AlphabetRingPosition="31" NotchRingName="NotchRing10" NotchRingPosition="32" ParentId="535" />
+        <RotorSetting Id="4280" RotorName="RotorI" AlphabetRingPosition="34" NotchRingName="NotchRing3" NotchRingPosition="24" ParentId="535" />
+      </Rotors>
+    </Settings>
+    <Settings Id="534" Date="2017-01-14T00:00:00" Indicator="HILCI" NumericIndicator="31686" StartPosition="KJOCWZVH" Check="KLYEFZTKSN" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4265" RotorName="RotorO" AlphabetRingPosition="28" NotchRingName="NotchRing6" NotchRingPosition="4" ParentId="534" />
+        <RotorSetting Id="4266" RotorName="RotorL" AlphabetRingPosition="20" NotchRingName="NotchRing14" NotchRingPosition="24" ParentId="534" />
+        <RotorSetting Id="4267" RotorName="RotorE" AlphabetRingPosition="1" NotchRingName="NotchRing2" NotchRingPosition="33" ParentId="534" />
+        <RotorSetting Id="4268" RotorName="RotorD" AlphabetRingPosition="6" NotchRingName="NotchRing1" NotchRingPosition="17" ParentId="534" />
+        <RotorSetting Id="4269" RotorName="RotorH" AlphabetRingPosition="11" NotchRingName="NotchRing13" NotchRingPosition="32" ParentId="534" />
+        <RotorSetting Id="4270" RotorName="RotorC" AlphabetRingPosition="12" NotchRingName="NotchRing10" NotchRingPosition="10" ParentId="534" />
+        <RotorSetting Id="4271" RotorName="RotorN" AlphabetRingPosition="4" NotchRingName="NotchRing5" NotchRingPosition="28" ParentId="534" />
+        <RotorSetting Id="4272" RotorName="RotorK" AlphabetRingPosition="30" NotchRingName="NotchRing7" NotchRingPosition="32" ParentId="534" />
+      </Rotors>
+    </Settings>
+    <Settings Id="533" Date="2017-01-13T00:00:00" Indicator="YZTAB" NumericIndicator="65413" StartPosition="KGPGHTNO" Check="EDEORMRVMR" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4257" RotorName="RotorD" AlphabetRingPosition="13" NotchRingName="NotchRing15" NotchRingPosition="20" ParentId="533" />
+        <RotorSetting Id="4258" RotorName="RotorK" AlphabetRingPosition="15" NotchRingName="NotchRing2" NotchRingPosition="20" ParentId="533" />
+        <RotorSetting Id="4259" RotorName="RotorM" AlphabetRingPosition="4" NotchRingName="NotchRing4" NotchRingPosition="32" ParentId="533" />
+        <RotorSetting Id="4260" RotorName="RotorP" AlphabetRingPosition="13" NotchRingName="NotchRing11" NotchRingPosition="35" ParentId="533" />
+        <RotorSetting Id="4261" RotorName="RotorH" AlphabetRingPosition="7" NotchRingName="NotchRing6" NotchRingPosition="23" ParentId="533" />
+        <RotorSetting Id="4262" RotorName="RotorB" AlphabetRingPosition="26" NotchRingName="NotchRing10" NotchRingPosition="22" ParentId="533" />
+        <RotorSetting Id="4263" RotorName="RotorE" AlphabetRingPosition="14" NotchRingName="NotchRing8" NotchRingPosition="6" ParentId="533" />
+        <RotorSetting Id="4264" RotorName="RotorF" AlphabetRingPosition="7" NotchRingName="NotchRing3" NotchRingPosition="18" ParentId="533" />
+      </Rotors>
+    </Settings>
+    <Settings Id="532" Date="2017-01-12T00:00:00" Indicator="DGBFS" NumericIndicator="55198" StartPosition="UVDDTORT" Check="MBQXBLDPCI" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4249" RotorName="RotorB" AlphabetRingPosition="30" NotchRingName="NotchRing4" NotchRingPosition="8" ParentId="532" />
+        <RotorSetting Id="4250" RotorName="RotorG" AlphabetRingPosition="26" NotchRingName="NotchRing10" NotchRingPosition="29" ParentId="532" />
+        <RotorSetting Id="4251" RotorName="RotorK" AlphabetRingPosition="19" NotchRingName="NotchRing9" NotchRingPosition="21" ParentId="532" />
+        <RotorSetting Id="4252" RotorName="RotorA" AlphabetRingPosition="33" NotchRingName="NotchRing13" NotchRingPosition="4" ParentId="532" />
+        <RotorSetting Id="4253" RotorName="RotorP" AlphabetRingPosition="5" NotchRingName="NotchRing15" NotchRingPosition="11" ParentId="532" />
+        <RotorSetting Id="4254" RotorName="RotorE" AlphabetRingPosition="19" NotchRingName="NotchRing14" NotchRingPosition="31" ParentId="532" />
+        <RotorSetting Id="4255" RotorName="RotorH" AlphabetRingPosition="4" NotchRingName="NotchRing5" NotchRingPosition="9" ParentId="532" />
+        <RotorSetting Id="4256" RotorName="RotorD" AlphabetRingPosition="4" NotchRingName="NotchRing8" NotchRingPosition="3" ParentId="532" />
+      </Rotors>
+    </Settings>
+    <Settings Id="531" Date="2017-01-11T00:00:00" Indicator="LDSAQ" NumericIndicator="14602" StartPosition="ASNEWKVF" Check="RQAKPWTLOZ" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4241" RotorName="RotorB" AlphabetRingPosition="4" NotchRingName="NotchRing6" NotchRingPosition="15" ParentId="531" />
+        <RotorSetting Id="4242" RotorName="RotorI" AlphabetRingPosition="14" NotchRingName="NotchRing1" NotchRingPosition="2" ParentId="531" />
+        <RotorSetting Id="4243" RotorName="RotorL" AlphabetRingPosition="33" NotchRingName="NotchRing7" NotchRingPosition="5" ParentId="531" />
+        <RotorSetting Id="4244" RotorName="RotorA" AlphabetRingPosition="21" NotchRingName="NotchRing15" NotchRingPosition="10" ParentId="531" />
+        <RotorSetting Id="4245" RotorName="RotorP" AlphabetRingPosition="12" NotchRingName="NotchRing11" NotchRingPosition="33" ParentId="531" />
+        <RotorSetting Id="4246" RotorName="RotorD" AlphabetRingPosition="1" NotchRingName="NotchRing4" NotchRingPosition="18" ParentId="531" />
+        <RotorSetting Id="4247" RotorName="RotorF" AlphabetRingPosition="34" NotchRingName="NotchRing9" NotchRingPosition="29" ParentId="531" />
+        <RotorSetting Id="4248" RotorName="RotorM" AlphabetRingPosition="29" NotchRingName="NotchRing12" NotchRingPosition="3" ParentId="531" />
+      </Rotors>
+    </Settings>
+    <Settings Id="530" Date="2017-01-10T00:00:00" Indicator="WSUMT" NumericIndicator="10008" StartPosition="MHQKYVAM" Check="KQXVRXFBFJ" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4233" RotorName="RotorJ" AlphabetRingPosition="7" NotchRingName="NotchRing6" NotchRingPosition="22" ParentId="530" />
+        <RotorSetting Id="4234" RotorName="RotorB" AlphabetRingPosition="12" NotchRingName="NotchRing5" NotchRingPosition="19" ParentId="530" />
+        <RotorSetting Id="4235" RotorName="RotorF" AlphabetRingPosition="35" NotchRingName="NotchRing8" NotchRingPosition="10" ParentId="530" />
+        <RotorSetting Id="4236" RotorName="RotorC" AlphabetRingPosition="8" NotchRingName="NotchRing7" NotchRingPosition="17" ParentId="530" />
+        <RotorSetting Id="4237" RotorName="RotorK" AlphabetRingPosition="26" NotchRingName="NotchRing3" NotchRingPosition="4" ParentId="530" />
+        <RotorSetting Id="4238" RotorName="RotorL" AlphabetRingPosition="12" NotchRingName="NotchRing16" NotchRingPosition="34" ParentId="530" />
+        <RotorSetting Id="4239" RotorName="RotorE" AlphabetRingPosition="22" NotchRingName="NotchRing15" NotchRingPosition="22" ParentId="530" />
+        <RotorSetting Id="4240" RotorName="RotorP" AlphabetRingPosition="5" NotchRingName="NotchRing14" NotchRingPosition="19" ParentId="530" />
+      </Rotors>
+    </Settings>
+    <Settings Id="529" Date="2017-01-09T00:00:00" Indicator="SRXUV" NumericIndicator="85382" StartPosition="UDWJZWVM" Check="WMZZMRGSQL" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4225" RotorName="RotorP" AlphabetRingPosition="7" NotchRingName="NotchRing3" NotchRingPosition="9" ParentId="529" />
+        <RotorSetting Id="4226" RotorName="RotorO" AlphabetRingPosition="5" NotchRingName="NotchRing15" NotchRingPosition="23" ParentId="529" />
+        <RotorSetting Id="4227" RotorName="RotorK" AlphabetRingPosition="22" NotchRingName="NotchRing5" NotchRingPosition="9" ParentId="529" />
+        <RotorSetting Id="4228" RotorName="RotorJ" AlphabetRingPosition="29" NotchRingName="NotchRing2" NotchRingPosition="15" ParentId="529" />
+        <RotorSetting Id="4229" RotorName="RotorD" AlphabetRingPosition="29" NotchRingName="NotchRing6" NotchRingPosition="8" ParentId="529" />
+        <RotorSetting Id="4230" RotorName="RotorF" AlphabetRingPosition="3" NotchRingName="NotchRing1" NotchRingPosition="7" ParentId="529" />
+        <RotorSetting Id="4231" RotorName="RotorM" AlphabetRingPosition="3" NotchRingName="NotchRing12" NotchRingPosition="35" ParentId="529" />
+        <RotorSetting Id="4232" RotorName="RotorN" AlphabetRingPosition="27" NotchRingName="NotchRing10" NotchRingPosition="11" ParentId="529" />
+      </Rotors>
+    </Settings>
+    <Settings Id="528" Date="2017-01-08T00:00:00" Indicator="QPUYN" NumericIndicator="52374" StartPosition="GYKYNWAF" Check="RFNQTQDVFL" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4217" RotorName="RotorM" AlphabetRingPosition="15" NotchRingName="NotchRing3" NotchRingPosition="8" ParentId="528" />
+        <RotorSetting Id="4218" RotorName="RotorD" AlphabetRingPosition="7" NotchRingName="NotchRing1" NotchRingPosition="28" ParentId="528" />
+        <RotorSetting Id="4219" RotorName="RotorL" AlphabetRingPosition="29" NotchRingName="NotchRing4" NotchRingPosition="21" ParentId="528" />
+        <RotorSetting Id="4220" RotorName="RotorH" AlphabetRingPosition="26" NotchRingName="NotchRing8" NotchRingPosition="17" ParentId="528" />
+        <RotorSetting Id="4221" RotorName="RotorO" AlphabetRingPosition="11" NotchRingName="NotchRing16" NotchRingPosition="11" ParentId="528" />
+        <RotorSetting Id="4222" RotorName="RotorJ" AlphabetRingPosition="23" NotchRingName="NotchRing13" NotchRingPosition="0" ParentId="528" />
+        <RotorSetting Id="4223" RotorName="RotorF" AlphabetRingPosition="26" NotchRingName="NotchRing9" NotchRingPosition="26" ParentId="528" />
+        <RotorSetting Id="4224" RotorName="RotorA" AlphabetRingPosition="15" NotchRingName="NotchRing12" NotchRingPosition="12" ParentId="528" />
+      </Rotors>
+    </Settings>
+    <Settings Id="527" Date="2017-01-07T00:00:00" Indicator="KWYPV" NumericIndicator="75733" StartPosition="FQOUUJHM" Check="MIPWMCCBJI" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4209" RotorName="RotorO" AlphabetRingPosition="16" NotchRingName="NotchRing1" NotchRingPosition="4" ParentId="527" />
+        <RotorSetting Id="4210" RotorName="RotorJ" AlphabetRingPosition="20" NotchRingName="NotchRing15" NotchRingPosition="0" ParentId="527" />
+        <RotorSetting Id="4211" RotorName="RotorA" AlphabetRingPosition="5" NotchRingName="NotchRing16" NotchRingPosition="25" ParentId="527" />
+        <RotorSetting Id="4212" RotorName="RotorB" AlphabetRingPosition="7" NotchRingName="NotchRing5" NotchRingPosition="21" ParentId="527" />
+        <RotorSetting Id="4213" RotorName="RotorF" AlphabetRingPosition="34" NotchRingName="NotchRing13" NotchRingPosition="34" ParentId="527" />
+        <RotorSetting Id="4214" RotorName="RotorK" AlphabetRingPosition="2" NotchRingName="NotchRing8" NotchRingPosition="16" ParentId="527" />
+        <RotorSetting Id="4215" RotorName="RotorG" AlphabetRingPosition="15" NotchRingName="NotchRing9" NotchRingPosition="19" ParentId="527" />
+        <RotorSetting Id="4216" RotorName="RotorE" AlphabetRingPosition="18" NotchRingName="NotchRing7" NotchRingPosition="8" ParentId="527" />
+      </Rotors>
+    </Settings>
+    <Settings Id="526" Date="2017-01-06T00:00:00" Indicator="BGMXI" NumericIndicator="64135" StartPosition="CYPKONEN" Check="WYJKMSRRXW" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4201" RotorName="RotorN" AlphabetRingPosition="19" NotchRingName="NotchRing11" NotchRingPosition="1" ParentId="526" />
+        <RotorSetting Id="4202" RotorName="RotorI" AlphabetRingPosition="7" NotchRingName="NotchRing16" NotchRingPosition="29" ParentId="526" />
+        <RotorSetting Id="4203" RotorName="RotorG" AlphabetRingPosition="2" NotchRingName="NotchRing10" NotchRingPosition="5" ParentId="526" />
+        <RotorSetting Id="4204" RotorName="RotorM" AlphabetRingPosition="11" NotchRingName="NotchRing15" NotchRingPosition="31" ParentId="526" />
+        <RotorSetting Id="4205" RotorName="RotorH" AlphabetRingPosition="23" NotchRingName="NotchRing4" NotchRingPosition="30" ParentId="526" />
+        <RotorSetting Id="4206" RotorName="RotorO" AlphabetRingPosition="19" NotchRingName="NotchRing12" NotchRingPosition="27" ParentId="526" />
+        <RotorSetting Id="4207" RotorName="RotorK" AlphabetRingPosition="22" NotchRingName="NotchRing8" NotchRingPosition="25" ParentId="526" />
+        <RotorSetting Id="4208" RotorName="RotorF" AlphabetRingPosition="9" NotchRingName="NotchRing1" NotchRingPosition="0" ParentId="526" />
+      </Rotors>
+    </Settings>
+    <Settings Id="525" Date="2017-01-05T00:00:00" Indicator="GNMBR" NumericIndicator="21315" StartPosition="HBZEMBXA" Check="ESKVIEAIOM" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4193" RotorName="RotorO" AlphabetRingPosition="19" NotchRingName="NotchRing9" NotchRingPosition="35" ParentId="525" />
+        <RotorSetting Id="4194" RotorName="RotorD" AlphabetRingPosition="21" NotchRingName="NotchRing6" NotchRingPosition="3" ParentId="525" />
+        <RotorSetting Id="4195" RotorName="RotorE" AlphabetRingPosition="29" NotchRingName="NotchRing14" NotchRingPosition="4" ParentId="525" />
+        <RotorSetting Id="4196" RotorName="RotorF" AlphabetRingPosition="12" NotchRingName="NotchRing13" NotchRingPosition="9" ParentId="525" />
+        <RotorSetting Id="4197" RotorName="RotorA" AlphabetRingPosition="5" NotchRingName="NotchRing10" NotchRingPosition="33" ParentId="525" />
+        <RotorSetting Id="4198" RotorName="RotorL" AlphabetRingPosition="20" NotchRingName="NotchRing4" NotchRingPosition="26" ParentId="525" />
+        <RotorSetting Id="4199" RotorName="RotorC" AlphabetRingPosition="19" NotchRingName="NotchRing15" NotchRingPosition="33" ParentId="525" />
+        <RotorSetting Id="4200" RotorName="RotorN" AlphabetRingPosition="25" NotchRingName="NotchRing16" NotchRingPosition="32" ParentId="525" />
+      </Rotors>
+    </Settings>
+    <Settings Id="524" Date="2017-01-04T00:00:00" Indicator="LNDMH" NumericIndicator="66232" StartPosition="VOMQOPIJ" Check="EHDJPGYWMI" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4185" RotorName="RotorG" AlphabetRingPosition="12" NotchRingName="NotchRing4" NotchRingPosition="21" ParentId="524" />
+        <RotorSetting Id="4186" RotorName="RotorJ" AlphabetRingPosition="7" NotchRingName="NotchRing13" NotchRingPosition="6" ParentId="524" />
+        <RotorSetting Id="4187" RotorName="RotorK" AlphabetRingPosition="29" NotchRingName="NotchRing1" NotchRingPosition="33" ParentId="524" />
+        <RotorSetting Id="4188" RotorName="RotorI" AlphabetRingPosition="20" NotchRingName="NotchRing6" NotchRingPosition="6" ParentId="524" />
+        <RotorSetting Id="4189" RotorName="RotorO" AlphabetRingPosition="12" NotchRingName="NotchRing5" NotchRingPosition="26" ParentId="524" />
+        <RotorSetting Id="4190" RotorName="RotorM" AlphabetRingPosition="12" NotchRingName="NotchRing9" NotchRingPosition="16" ParentId="524" />
+        <RotorSetting Id="4191" RotorName="RotorC" AlphabetRingPosition="35" NotchRingName="NotchRing14" NotchRingPosition="29" ParentId="524" />
+        <RotorSetting Id="4192" RotorName="RotorA" AlphabetRingPosition="32" NotchRingName="NotchRing16" NotchRingPosition="8" ParentId="524" />
+      </Rotors>
+    </Settings>
+    <Settings Id="523" Date="2017-01-03T00:00:00" Indicator="XLIBL" NumericIndicator="45793" StartPosition="VNSWCKTT" Check="CAMVOIAMST" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4177" RotorName="RotorO" AlphabetRingPosition="27" NotchRingName="NotchRing13" NotchRingPosition="13" ParentId="523" />
+        <RotorSetting Id="4178" RotorName="RotorD" AlphabetRingPosition="3" NotchRingName="NotchRing14" NotchRingPosition="21" ParentId="523" />
+        <RotorSetting Id="4179" RotorName="RotorP" AlphabetRingPosition="7" NotchRingName="NotchRing6" NotchRingPosition="28" ParentId="523" />
+        <RotorSetting Id="4180" RotorName="RotorG" AlphabetRingPosition="18" NotchRingName="NotchRing5" NotchRingPosition="20" ParentId="523" />
+        <RotorSetting Id="4181" RotorName="RotorM" AlphabetRingPosition="30" NotchRingName="NotchRing3" NotchRingPosition="31" ParentId="523" />
+        <RotorSetting Id="4182" RotorName="RotorL" AlphabetRingPosition="29" NotchRingName="NotchRing4" NotchRingPosition="24" ParentId="523" />
+        <RotorSetting Id="4183" RotorName="RotorA" AlphabetRingPosition="34" NotchRingName="NotchRing7" NotchRingPosition="25" ParentId="523" />
+        <RotorSetting Id="4184" RotorName="RotorN" AlphabetRingPosition="2" NotchRingName="NotchRing11" NotchRingPosition="10" ParentId="523" />
+      </Rotors>
+    </Settings>
+    <Settings Id="522" Date="2017-01-02T00:00:00" Indicator="VYMKW" NumericIndicator="74426" StartPosition="QGCEITAC" Check="BZWBZIXAIW" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4169" RotorName="RotorH" AlphabetRingPosition="19" NotchRingName="NotchRing11" NotchRingPosition="29" ParentId="522" />
+        <RotorSetting Id="4170" RotorName="RotorK" AlphabetRingPosition="4" NotchRingName="NotchRing13" NotchRingPosition="8" ParentId="522" />
+        <RotorSetting Id="4171" RotorName="RotorO" AlphabetRingPosition="24" NotchRingName="NotchRing15" NotchRingPosition="2" ParentId="522" />
+        <RotorSetting Id="4172" RotorName="RotorM" AlphabetRingPosition="3" NotchRingName="NotchRing2" NotchRingPosition="26" ParentId="522" />
+        <RotorSetting Id="4173" RotorName="RotorG" AlphabetRingPosition="33" NotchRingName="NotchRing3" NotchRingPosition="23" ParentId="522" />
+        <RotorSetting Id="4174" RotorName="RotorA" AlphabetRingPosition="31" NotchRingName="NotchRing10" NotchRingPosition="18" ParentId="522" />
+        <RotorSetting Id="4175" RotorName="RotorP" AlphabetRingPosition="4" NotchRingName="NotchRing8" NotchRingPosition="14" ParentId="522" />
+        <RotorSetting Id="4176" RotorName="RotorC" AlphabetRingPosition="8" NotchRingName="NotchRing14" NotchRingPosition="30" ParentId="522" />
+      </Rotors>
+    </Settings>
+    <Settings Id="521" Date="2017-01-01T00:00:00" Indicator="TKGMA" NumericIndicator="74369" StartPosition="UTUWUFHW" Check="DYQMKTWHUJ" ParentId="18">
+      <Rotors>
+        <RotorSetting Id="4161" RotorName="RotorL" AlphabetRingPosition="17" NotchRingName="NotchRing13" NotchRingPosition="7" ParentId="521" />
+        <RotorSetting Id="4162" RotorName="RotorC" AlphabetRingPosition="27" NotchRingName="NotchRing10" NotchRingPosition="6" ParentId="521" />
+        <RotorSetting Id="4163" RotorName="RotorF" AlphabetRingPosition="0" NotchRingName="NotchRing2" NotchRingPosition="24" ParentId="521" />
+        <RotorSetting Id="4164" RotorName="RotorD" AlphabetRingPosition="31" NotchRingName="NotchRing8" NotchRingPosition="6" ParentId="521" />
+        <RotorSetting Id="4165" RotorName="RotorN" AlphabetRingPosition="23" NotchRingName="NotchRing3" NotchRingPosition="17" ParentId="521" />
+        <RotorSetting Id="4166" RotorName="RotorK" AlphabetRingPosition="9" NotchRingName="NotchRing7" NotchRingPosition="19" ParentId="521" />
+        <RotorSetting Id="4167" RotorName="RotorI" AlphabetRingPosition="32" NotchRingName="NotchRing16" NotchRingPosition="23" ParentId="521" />
+        <RotorSetting Id="4168" RotorName="RotorH" AlphabetRingPosition="34" NotchRingName="NotchRing1" NotchRingPosition="12" ParentId="521" />
+      </Rotors>
+    </Settings>
+  </DailySettings>
+  <Wiring Id="17" Plate1="ZA59PMYEN2BTOW4KI37HSQG0LD61JXUFR8CV" Plate2="UP7410OKIVME2WDNRYG8Q6TFH9S5JX3ACBLZ">
+    <Rotors>
+      <string>MGJOU1T4A2L0CXF3KQVBYSPEI6W9NRZ58DH7</string>
+      <string>WD4LHOYNVQ85FAME92XU6RB1JGZSCTI037KP</string>
+      <string>KVOFC4LP65DRJMBGX9W73EZ8TUH1SI0QYN2A</string>
+      <string>6QGYVE7R8XFIMZ4BSJ0W3D2A5NKUP1TOHC9L</string>
+      <string>FHGQ4ZUC965TPN0RJ71ISW3LDVBYKMEXAO28</string>
+      <string>GOJ1Y83F72VQNZK4UC9SL5MBTW0DIP6XEAHR</string>
+      <string>0Q8Y6VAIS3WNKCTXEDLZRUJO5H4FBM7G12P9</string>
+      <string>QXP06YHW8TBZGMR7UOLAE2S5JNV149D3ICFK</string>
+      <string>5VF0SLGYC9U6NRAEPKO41DT2HQ83BJZXIMW7</string>
+      <string>86WG1TMHZDAV7OSBFQLP52EU3IR94CK0YJNX</string>
+      <string>2R6EOZSJG8PTA9HVNQFK1D0B7I3CXYL5WM4U</string>
+      <string>37NKWCL09RMU2IG15FQOEYJB4ZHVSDP6ATX8</string>
+      <string>0P7AERW3KBSOV5U2XFCMHTLG941DYI8QN6ZJ</string>
+      <string>Q5DNYRIF7OS98GUMPEJ0CZA6H2BWXK4VL3T1</string>
+      <string>JR75QU4FD3N80TO6KH2EVZIMXSWC9L1APYGB</string>
+      <string>BI0SAQDZ1TCP3HNUWV5JE9ROLK842F6YMGX7</string>
+    </Rotors>
+    <Notches>
+      <string>110111000100011101100001101010101010</string>
+      <string>000001101001010101110101011100111100</string>
+      <string>110101011100010111110101001100010000</string>
+      <string>001011101000111110110010001110011000</string>
+      <string>001010111110000011011110011001010010</string>
+      <string>100101101010010101110100100110100101</string>
+      <string>111101100000110100110010101001010101</string>
+      <string>110110101100010110011101000110010010</string>
+      <string>010101100011100011110101011010100001</string>
+      <string>000001110001010111000110100111010111</string>
+      <string>100101011011000101100100011101010110</string>
+      <string>011101110111011001000010001011100100</string>
+      <string>111110100111010011101000110000000011</string>
+      <string>101100000101100001101100110111101010</string>
+      <string>000000111100011010111000101111101100</string>
+      <string>011010000111111100110010000110010101</string>
+    </Notches>
+    <Moves>
+      <string>0123467</string>
+      <string>167</string>
+      <string>0234</string>
+      <string>035</string>
+      <string>125</string>
+      <string>013467</string>
+      <string>012456</string>
+      <string>014567</string>
+      <string>0123567</string>
+      <string>12347</string>
+      <string>12367</string>
+      <string>0245</string>
+      <string>0257</string>
+      <string>014567</string>
+      <string>012467</string>
+      <string>456</string>
+      <string>13457</string>
+      <string>027</string>
+      <string>012356</string>
+      <string>01245</string>
+      <string>23456</string>
+      <string>356</string>
+      <string>012367</string>
+      <string>12467</string>
+      <string>0267</string>
+      <string>0123457</string>
+      <string>123567</string>
+      <string>1234567</string>
+      <string>0147</string>
+      <string>01345</string>
+      <string>0367</string>
+      <string>0134</string>
+      <string>246</string>
+      <string>134</string>
+      <string>03457</string>
+      <string>1234567</string>
+      <string>0246</string>
+      <string>12346</string>
+      <string>0124567</string>
+      <string>0467</string>
+      <string>0135</string>
+      <string>234567</string>
+      <string>0236</string>
+      <string>02367</string>
+      <string>057</string>
+      <string>123457</string>
+      <string>023467</string>
+      <string>045</string>
+      <string>067</string>
+      <string>146</string>
+      <string>012457</string>
+      <string>01246</string>
+      <string>025</string>
+      <string>012347</string>
+      <string>0235</string>
+      <string>013567</string>
+      <string>24567</string>
+      <string>0146</string>
+      <string>01367</string>
+      <string>2457</string>
+      <string>01234567</string>
+      <string>0247</string>
+      <string>024567</string>
+      <string>2347</string>
+      <string>02346</string>
+      <string>023456</string>
+      <string>0567</string>
+      <string>123457</string>
+      <string>0237</string>
+      <string>124567</string>
+      <string>0356</string>
+      <string>0346</string>
+      <string>34567</string>
+      <string>0125</string>
+      <string>0124567</string>
+      <string>234567</string>
+      <string>01456</string>
+      <string>023467</string>
+      <string>0357</string>
+      <string>023567</string>
+      <string>01346</string>
+      <string>1267</string>
+      <string>3567</string>
+      <string>13467</string>
+      <string>012</string>
+      <string>346</string>
+      <string>0347</string>
+      <string>1367</string>
+      <string>1345</string>
+      <string>02457</string>
+      <string>3456</string>
+      <string>12356</string>
+      <string>2346</string>
+      <string>2467</string>
+      <string>12357</string>
+      <string>1357</string>
+      <string>0457</string>
+      <string>357</string>
+      <string>124567</string>
+      <string>0127</string>
+      <string>1237</string>
+      <string>013</string>
+      <string>136</string>
+      <string>13567</string>
+      <string>02345</string>
+      <string>012357</string>
+      <string>0123567</string>
+      <string>123467</string>
+      <string>256</string>
+      <string>1467</string>
+      <string>247</string>
+      <string>345</string>
+      <string>01247</string>
+      <string>0167</string>
+      <string>012567</string>
+      <string>1235</string>
+      <string>016</string>
+      <string>013467</string>
+      <string>012467</string>
+      <string>01237</string>
+      <string>034567</string>
+      <string>0136</string>
+      <string>0256</string>
+      <string>12457</string>
+      <string>467</string>
+      <string>2345</string>
+      <string>13456</string>
+      <string>12456</string>
+      <string>12567</string>
+      <string>236</string>
+      <string>257</string>
+      <string>3467</string>
+      <string>01234</string>
+      <string>267</string>
+      <string>1457</string>
+      <string>012347</string>
+      <string>023456</string>
+      <string>017</string>
+      <string>026</string>
+      <string>134567</string>
+      <string>367</string>
+      <string>14567</string>
+      <string>127</string>
+      <string>036</string>
+      <string>23567</string>
+      <string>01467</string>
+      <string>023457</string>
+      <string>012367</string>
+      <string>347</string>
+      <string>1567</string>
+      <string>126</string>
+      <string>024</string>
+      <string>1236</string>
+      <string>0123457</string>
+      <string>01235</string>
+      <string>0157</string>
+      <string>123</string>
+      <string>1356</string>
+      <string>037</string>
+      <string>2357</string>
+      <string>1257</string>
+      <string>03467</string>
+      <string>147</string>
+      <string>4567</string>
+      <string>03456</string>
+      <string>1346</string>
+      <string>0156</string>
+      <string>013456</string>
+      <string>123456</string>
+      <string>124</string>
+      <string>137</string>
+      <string>0123456</string>
+      <string>0137</string>
+      <string>3457</string>
+      <string>234</string>
+      <string>047</string>
+      <string>013567</string>
+      <string>023567</string>
+      <string>0134567</string>
+      <string>01267</string>
+      <string>01257</string>
+      <string>567</string>
+      <string>01347</string>
+      <string>0123</string>
+      <string>034567</string>
+      <string>02456</string>
+      <string>12345</string>
+      <string>23457</string>
+      <string>01236</string>
+      <string>012357</string>
+      <string>1256</string>
+      <string>01567</string>
+      <string>013457</string>
+      <string>0234567</string>
+      <string>235</string>
+      <string>02347</string>
+      <string>2567</string>
+      <string>0123456</string>
+      <string>123467</string>
+      <string>01234567</string>
+      <string>046</string>
+      <string>1245</string>
+      <string>012457</string>
+      <string>0345</string>
+      <string>02356</string>
+      <string>2456</string>
+      <string>0123467</string>
+      <string>457</string>
+      <string>123456</string>
+      <string>1234</string>
+      <string>2356</string>
+      <string>2367</string>
+      <string>237</string>
+      <string>023457</string>
+      <string>0456</string>
+      <string>012345</string>
+      <string>123567</string>
+      <string>034</string>
+      <string>02467</string>
+      <string>145</string>
+      <string>04567</string>
+      <string>012345</string>
+      <string>135</string>
+      <string>01256</string>
+      <string>0134567</string>
+      <string>015</string>
+      <string>01356</string>
+      <string>157</string>
+      <string>0124</string>
+      <string>0145</string>
+      <string>245</string>
+      <string>1456</string>
+      <string>014</string>
+      <string>012356</string>
+      <string>156</string>
+      <string>012456</string>
+      <string>0234567</string>
+      <string>012346</string>
+      <string>0126</string>
+      <string>024567</string>
+      <string>134567</string>
+      <string>02567</string>
+      <string>013457</string>
+      <string>013456</string>
+      <string>01457</string>
+      <string>01357</string>
+      <string>23467</string>
+      <string>02357</string>
+      <string>1247</string>
+      <string>012346</string>
+      <string>012567</string>
+      <string>03567</string>
+      <string>1347</string>
+      <string>1246</string>
+      <string>023</string>
+      <string>056</string>
+    </Moves>
+    <ParentId>18</ParentId>
+  </Wiring>
+</MonthlySettings>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Date="2017-01-01T03:04:36.9526937-06:00" Indicator="XGPSV" NumericIndicator="67217" StartPosition="YQASQJJS" Check="MTUGOPYPOU">
+  <Rotors>
+    <RotorSetting RotorName="RotorL" AlphabetRingPosition="14" NotchRingName="NotchRing8" NotchRingPosition="35" />
+    <RotorSetting RotorName="RotorH" AlphabetRingPosition="8" NotchRingName="NotchRing14" NotchRingPosition="4" />
+    <RotorSetting RotorName="RotorC" AlphabetRingPosition="34" NotchRingName="NotchRing10" NotchRingPosition="33" />
+    <RotorSetting RotorName="RotorP" AlphabetRingPosition="18" NotchRingName="NotchRing1" NotchRingPosition="4" />
+    <RotorSetting RotorName="RotorB" AlphabetRingPosition="28" NotchRingName="NotchRing16" NotchRingPosition="27" />
+    <RotorSetting RotorName="RotorJ" AlphabetRingPosition="24" NotchRingName="NotchRing6" NotchRingPosition="19" />
+    <RotorSetting RotorName="RotorA" AlphabetRingPosition="23" NotchRingName="NotchRing5" NotchRingPosition="5" />
+    <RotorSetting RotorName="RotorF" AlphabetRingPosition="2" NotchRingName="NotchRing9" NotchRingPosition="13" />
+  </Rotors>
+</Settings>

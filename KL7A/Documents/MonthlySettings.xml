@@ -1,0 +1,377 @@
+<?xml version="1.0"?>
+<MonthlySettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Test" Classification="Test" Date="2017-01-01T00:00:00" Indicator="GQZNT" NumericIndicator="80100">
+  <DailySettings>
+    <Settings Date="2017-01-01T00:00:00" Indicator="OLNFV" NumericIndicator="70582" StartPosition="OXOUNRXO" Check="ZWZDKYRAVA">
+      <Rotors>
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="35" NotchRingName="NotchRing4" NotchRingPosition="15" />
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="15" NotchRingName="NotchRing7" NotchRingPosition="26" />
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="30" NotchRingName="NotchRing16" NotchRingPosition="12" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="19" NotchRingName="NotchRing13" NotchRingPosition="13" />
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="29" NotchRingName="NotchRing9" NotchRingPosition="12" />
+        <RotorSetting RotorName="RotorO" AlphabetRingPosition="20" NotchRingName="NotchRing11" NotchRingPosition="23" />
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="23" NotchRingName="NotchRing14" NotchRingPosition="15" />
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="11" NotchRingName="NotchRing2" NotchRingPosition="33" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-02T00:00:00" Indicator="OVBHF" NumericIndicator="81729" StartPosition="BFZCKZJU" Check="RZWCWNYLVS">
+      <Rotors>
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="10" NotchRingName="NotchRing6" NotchRingPosition="30" />
+        <RotorSetting RotorName="RotorH" AlphabetRingPosition="34" NotchRingName="NotchRing3" NotchRingPosition="31" />
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="26" NotchRingName="NotchRing7" NotchRingPosition="35" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="35" NotchRingName="NotchRing2" NotchRingPosition="25" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="22" NotchRingName="NotchRing11" NotchRingPosition="6" />
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="22" NotchRingName="NotchRing12" NotchRingPosition="6" />
+        <RotorSetting RotorName="RotorO" AlphabetRingPosition="14" NotchRingName="NotchRing13" NotchRingPosition="29" />
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="11" NotchRingName="NotchRing9" NotchRingPosition="14" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-03T00:00:00" Indicator="VTIDW" NumericIndicator="69325" StartPosition="BXBIQNCV" Check="ILEZOHZDWX">
+      <Rotors>
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="3" NotchRingName="NotchRing12" NotchRingPosition="20" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="26" NotchRingName="NotchRing16" NotchRingPosition="20" />
+        <RotorSetting RotorName="RotorA" AlphabetRingPosition="23" NotchRingName="NotchRing10" NotchRingPosition="12" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="9" NotchRingName="NotchRing14" NotchRingPosition="19" />
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="30" NotchRingName="NotchRing3" NotchRingPosition="14" />
+        <RotorSetting RotorName="RotorH" AlphabetRingPosition="20" NotchRingName="NotchRing1" NotchRingPosition="9" />
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="29" NotchRingName="NotchRing15" NotchRingPosition="5" />
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="10" NotchRingName="NotchRing8" NotchRingPosition="13" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-04T00:00:00" Indicator="HEVZC" NumericIndicator="20481" StartPosition="UHXFUUEK" Check="DYVNPMLQKT">
+      <Rotors>
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="3" NotchRingName="NotchRing5" NotchRingPosition="14" />
+        <RotorSetting RotorName="RotorK" AlphabetRingPosition="6" NotchRingName="NotchRing8" NotchRingPosition="22" />
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="15" NotchRingName="NotchRing2" NotchRingPosition="8" />
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="33" NotchRingName="NotchRing7" NotchRingPosition="23" />
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="21" NotchRingName="NotchRing3" NotchRingPosition="7" />
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="10" NotchRingName="NotchRing4" NotchRingPosition="28" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="14" NotchRingName="NotchRing10" NotchRingPosition="6" />
+        <RotorSetting RotorName="RotorN" AlphabetRingPosition="11" NotchRingName="NotchRing11" NotchRingPosition="9" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-05T00:00:00" Indicator="LJMIH" NumericIndicator="63116" StartPosition="HSQLGISG" Check="RXPUKMGYPN">
+      <Rotors>
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="3" NotchRingName="NotchRing8" NotchRingPosition="5" />
+        <RotorSetting RotorName="RotorO" AlphabetRingPosition="21" NotchRingName="NotchRing13" NotchRingPosition="32" />
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="32" NotchRingName="NotchRing7" NotchRingPosition="6" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="9" NotchRingName="NotchRing14" NotchRingPosition="33" />
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="29" NotchRingName="NotchRing3" NotchRingPosition="16" />
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="25" NotchRingName="NotchRing12" NotchRingPosition="19" />
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="22" NotchRingName="NotchRing4" NotchRingPosition="18" />
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="29" NotchRingName="NotchRing2" NotchRingPosition="25" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-06T00:00:00" Indicator="MIYZE" NumericIndicator="47133" StartPosition="VJPHVUWO" Check="JDNEIGUKNR">
+      <Rotors>
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="24" NotchRingName="NotchRing3" NotchRingPosition="1" />
+        <RotorSetting RotorName="RotorH" AlphabetRingPosition="33" NotchRingName="NotchRing11" NotchRingPosition="4" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="27" NotchRingName="NotchRing13" NotchRingPosition="5" />
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="34" NotchRingName="NotchRing7" NotchRingPosition="20" />
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="35" NotchRingName="NotchRing8" NotchRingPosition="35" />
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="35" NotchRingName="NotchRing9" NotchRingPosition="24" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="12" NotchRingName="NotchRing14" NotchRingPosition="32" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="33" NotchRingName="NotchRing10" NotchRingPosition="32" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-07T00:00:00" Indicator="MJNDO" NumericIndicator="88934" StartPosition="UVZCWXKV" Check="TYIRPFZSXF">
+      <Rotors>
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="10" NotchRingName="NotchRing3" NotchRingPosition="18" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="3" NotchRingName="NotchRing16" NotchRingPosition="20" />
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="32" NotchRingName="NotchRing15" NotchRingPosition="24" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="32" NotchRingName="NotchRing12" NotchRingPosition="33" />
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="13" NotchRingName="NotchRing7" NotchRingPosition="33" />
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="31" NotchRingName="NotchRing10" NotchRingPosition="0" />
+        <RotorSetting RotorName="RotorO" AlphabetRingPosition="9" NotchRingName="NotchRing5" NotchRingPosition="21" />
+        <RotorSetting RotorName="RotorH" AlphabetRingPosition="10" NotchRingName="NotchRing11" NotchRingPosition="5" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-08T00:00:00" Indicator="FNRWX" NumericIndicator="85910" StartPosition="ZEGPBDRP" Check="YHXIDDNUSB">
+      <Rotors>
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="12" NotchRingName="NotchRing7" NotchRingPosition="23" />
+        <RotorSetting RotorName="RotorH" AlphabetRingPosition="5" NotchRingName="NotchRing2" NotchRingPosition="22" />
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="22" NotchRingName="NotchRing8" NotchRingPosition="5" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="34" NotchRingName="NotchRing5" NotchRingPosition="34" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="27" NotchRingName="NotchRing3" NotchRingPosition="29" />
+        <RotorSetting RotorName="RotorN" AlphabetRingPosition="27" NotchRingName="NotchRing4" NotchRingPosition="3" />
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="1" NotchRingName="NotchRing6" NotchRingPosition="32" />
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="10" NotchRingName="NotchRing9" NotchRingPosition="26" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-09T00:00:00" Indicator="EBRZY" NumericIndicator="44064" StartPosition="PRAJLIMF" Check="VSGQQSTQKB">
+      <Rotors>
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="22" NotchRingName="NotchRing3" NotchRingPosition="30" />
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="0" NotchRingName="NotchRing8" NotchRingPosition="7" />
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="24" NotchRingName="NotchRing10" NotchRingPosition="29" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="17" NotchRingName="NotchRing7" NotchRingPosition="31" />
+        <RotorSetting RotorName="RotorH" AlphabetRingPosition="32" NotchRingName="NotchRing12" NotchRingPosition="25" />
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="33" NotchRingName="NotchRing15" NotchRingPosition="1" />
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="13" NotchRingName="NotchRing14" NotchRingPosition="27" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="11" NotchRingName="NotchRing16" NotchRingPosition="0" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-10T00:00:00" Indicator="BBVVF" NumericIndicator="53989" StartPosition="JJFUHCZG" Check="OYGKTMTBZC">
+      <Rotors>
+        <RotorSetting RotorName="RotorK" AlphabetRingPosition="2" NotchRingName="NotchRing6" NotchRingPosition="4" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="17" NotchRingName="NotchRing8" NotchRingPosition="2" />
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="16" NotchRingName="NotchRing14" NotchRingPosition="24" />
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="27" NotchRingName="NotchRing12" NotchRingPosition="2" />
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="25" NotchRingName="NotchRing5" NotchRingPosition="35" />
+        <RotorSetting RotorName="RotorN" AlphabetRingPosition="20" NotchRingName="NotchRing1" NotchRingPosition="11" />
+        <RotorSetting RotorName="RotorH" AlphabetRingPosition="33" NotchRingName="NotchRing9" NotchRingPosition="22" />
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="6" NotchRingName="NotchRing15" NotchRingPosition="5" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-11T00:00:00" Indicator="MQOKM" NumericIndicator="40284" StartPosition="ZNHAOYRE" Check="GNLPIFUJRX">
+      <Rotors>
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="23" NotchRingName="NotchRing4" NotchRingPosition="27" />
+        <RotorSetting RotorName="RotorA" AlphabetRingPosition="17" NotchRingName="NotchRing2" NotchRingPosition="20" />
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="15" NotchRingName="NotchRing7" NotchRingPosition="23" />
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="18" NotchRingName="NotchRing12" NotchRingPosition="1" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="8" NotchRingName="NotchRing8" NotchRingPosition="35" />
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="21" NotchRingName="NotchRing9" NotchRingPosition="30" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="27" NotchRingName="NotchRing5" NotchRingPosition="23" />
+        <RotorSetting RotorName="RotorK" AlphabetRingPosition="11" NotchRingName="NotchRing15" NotchRingPosition="7" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-12T00:00:00" Indicator="YAKMK" NumericIndicator="67454" StartPosition="ODWXTDTV" Check="LVYTRAIYHH">
+      <Rotors>
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="3" NotchRingName="NotchRing6" NotchRingPosition="32" />
+        <RotorSetting RotorName="RotorK" AlphabetRingPosition="6" NotchRingName="NotchRing9" NotchRingPosition="33" />
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="32" NotchRingName="NotchRing11" NotchRingPosition="32" />
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="6" NotchRingName="NotchRing13" NotchRingPosition="14" />
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="33" NotchRingName="NotchRing5" NotchRingPosition="32" />
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="30" NotchRingName="NotchRing15" NotchRingPosition="15" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="16" NotchRingName="NotchRing3" NotchRingPosition="11" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="35" NotchRingName="NotchRing1" NotchRingPosition="34" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-13T00:00:00" Indicator="LKPZV" NumericIndicator="86443" StartPosition="ZXXDILDP" Check="LEDKTPXSPR">
+      <Rotors>
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="10" NotchRingName="NotchRing4" NotchRingPosition="30" />
+        <RotorSetting RotorName="RotorA" AlphabetRingPosition="7" NotchRingName="NotchRing6" NotchRingPosition="14" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="18" NotchRingName="NotchRing12" NotchRingPosition="23" />
+        <RotorSetting RotorName="RotorK" AlphabetRingPosition="29" NotchRingName="NotchRing7" NotchRingPosition="7" />
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="14" NotchRingName="NotchRing16" NotchRingPosition="34" />
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="28" NotchRingName="NotchRing9" NotchRingPosition="10" />
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="11" NotchRingName="NotchRing13" NotchRingPosition="31" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="28" NotchRingName="NotchRing10" NotchRingPosition="9" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-14T00:00:00" Indicator="YTEOS" NumericIndicator="89827" StartPosition="GZMHJFTU" Check="FPDSTIRGMV">
+      <Rotors>
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="19" NotchRingName="NotchRing4" NotchRingPosition="19" />
+        <RotorSetting RotorName="RotorA" AlphabetRingPosition="21" NotchRingName="NotchRing14" NotchRingPosition="3" />
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="27" NotchRingName="NotchRing9" NotchRingPosition="13" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="5" NotchRingName="NotchRing1" NotchRingPosition="31" />
+        <RotorSetting RotorName="RotorK" AlphabetRingPosition="20" NotchRingName="NotchRing8" NotchRingPosition="5" />
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="0" NotchRingName="NotchRing11" NotchRingPosition="12" />
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="11" NotchRingName="NotchRing6" NotchRingPosition="9" />
+        <RotorSetting RotorName="RotorH" AlphabetRingPosition="13" NotchRingName="NotchRing15" NotchRingPosition="22" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-15T00:00:00" Indicator="EUXPP" NumericIndicator="60881" StartPosition="KVXEVSCY" Check="HHFBWVOBXV">
+      <Rotors>
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="9" NotchRingName="NotchRing3" NotchRingPosition="14" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="28" NotchRingName="NotchRing9" NotchRingPosition="19" />
+        <RotorSetting RotorName="RotorO" AlphabetRingPosition="20" NotchRingName="NotchRing16" NotchRingPosition="17" />
+        <RotorSetting RotorName="RotorK" AlphabetRingPosition="32" NotchRingName="NotchRing12" NotchRingPosition="32" />
+        <RotorSetting RotorName="RotorA" AlphabetRingPosition="35" NotchRingName="NotchRing15" NotchRingPosition="30" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="8" NotchRingName="NotchRing14" NotchRingPosition="20" />
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="15" NotchRingName="NotchRing7" NotchRingPosition="11" />
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="3" NotchRingName="NotchRing10" NotchRingPosition="18" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-16T00:00:00" Indicator="LCNXM" NumericIndicator="19632" StartPosition="MHAITBED" Check="YGPKRJWPQJ">
+      <Rotors>
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="13" NotchRingName="NotchRing11" NotchRingPosition="11" />
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="3" NotchRingName="NotchRing15" NotchRingPosition="15" />
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="15" NotchRingName="NotchRing6" NotchRingPosition="22" />
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="32" NotchRingName="NotchRing9" NotchRingPosition="13" />
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="30" NotchRingName="NotchRing16" NotchRingPosition="5" />
+        <RotorSetting RotorName="RotorA" AlphabetRingPosition="5" NotchRingName="NotchRing8" NotchRingPosition="29" />
+        <RotorSetting RotorName="RotorH" AlphabetRingPosition="35" NotchRingName="NotchRing10" NotchRingPosition="18" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="34" NotchRingName="NotchRing4" NotchRingPosition="20" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-17T00:00:00" Indicator="UOLXE" NumericIndicator="72128" StartPosition="RXDLKHAL" Check="QHBATAVBCD">
+      <Rotors>
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="28" NotchRingName="NotchRing5" NotchRingPosition="18" />
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="0" NotchRingName="NotchRing7" NotchRingPosition="34" />
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="26" NotchRingName="NotchRing4" NotchRingPosition="25" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="18" NotchRingName="NotchRing9" NotchRingPosition="7" />
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="32" NotchRingName="NotchRing13" NotchRingPosition="23" />
+        <RotorSetting RotorName="RotorO" AlphabetRingPosition="5" NotchRingName="NotchRing3" NotchRingPosition="22" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="4" NotchRingName="NotchRing2" NotchRingPosition="20" />
+        <RotorSetting RotorName="RotorA" AlphabetRingPosition="23" NotchRingName="NotchRing14" NotchRingPosition="0" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-18T00:00:00" Indicator="PSPBA" NumericIndicator="84898" StartPosition="WMHZHEYC" Check="KRAYPQUHGL">
+      <Rotors>
+        <RotorSetting RotorName="RotorH" AlphabetRingPosition="25" NotchRingName="NotchRing12" NotchRingPosition="0" />
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="27" NotchRingName="NotchRing7" NotchRingPosition="33" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="14" NotchRingName="NotchRing8" NotchRingPosition="7" />
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="35" NotchRingName="NotchRing1" NotchRingPosition="17" />
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="8" NotchRingName="NotchRing15" NotchRingPosition="0" />
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="18" NotchRingName="NotchRing2" NotchRingPosition="3" />
+        <RotorSetting RotorName="RotorK" AlphabetRingPosition="13" NotchRingName="NotchRing4" NotchRingPosition="22" />
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="34" NotchRingName="NotchRing3" NotchRingPosition="7" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-19T00:00:00" Indicator="OJPTI" NumericIndicator="22864" StartPosition="LVHUCJYM" Check="GEIWODPPPP">
+      <Rotors>
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="5" NotchRingName="NotchRing16" NotchRingPosition="31" />
+        <RotorSetting RotorName="RotorH" AlphabetRingPosition="33" NotchRingName="NotchRing12" NotchRingPosition="3" />
+        <RotorSetting RotorName="RotorN" AlphabetRingPosition="11" NotchRingName="NotchRing13" NotchRingPosition="21" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="31" NotchRingName="NotchRing9" NotchRingPosition="16" />
+        <RotorSetting RotorName="RotorK" AlphabetRingPosition="7" NotchRingName="NotchRing3" NotchRingPosition="0" />
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="29" NotchRingName="NotchRing6" NotchRingPosition="15" />
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="11" NotchRingName="NotchRing14" NotchRingPosition="24" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="24" NotchRingName="NotchRing1" NotchRingPosition="3" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-20T00:00:00" Indicator="XQHOB" NumericIndicator="38219" StartPosition="ROJJCAYJ" Check="BAGDWRZRMK">
+      <Rotors>
+        <RotorSetting RotorName="RotorO" AlphabetRingPosition="17" NotchRingName="NotchRing9" NotchRingPosition="35" />
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="31" NotchRingName="NotchRing7" NotchRingPosition="27" />
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="24" NotchRingName="NotchRing5" NotchRingPosition="3" />
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="11" NotchRingName="NotchRing13" NotchRingPosition="15" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="32" NotchRingName="NotchRing3" NotchRingPosition="7" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="32" NotchRingName="NotchRing1" NotchRingPosition="8" />
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="22" NotchRingName="NotchRing12" NotchRingPosition="27" />
+        <RotorSetting RotorName="RotorK" AlphabetRingPosition="13" NotchRingName="NotchRing4" NotchRingPosition="1" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-21T00:00:00" Indicator="HRCNW" NumericIndicator="62987" StartPosition="VZYJUORU" Check="SUGLKNMPPS">
+      <Rotors>
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="19" NotchRingName="NotchRing1" NotchRingPosition="29" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="33" NotchRingName="NotchRing11" NotchRingPosition="27" />
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="10" NotchRingName="NotchRing16" NotchRingPosition="27" />
+        <RotorSetting RotorName="RotorN" AlphabetRingPosition="22" NotchRingName="NotchRing12" NotchRingPosition="34" />
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="10" NotchRingName="NotchRing4" NotchRingPosition="5" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="7" NotchRingName="NotchRing15" NotchRingPosition="14" />
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="2" NotchRingName="NotchRing2" NotchRingPosition="2" />
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="23" NotchRingName="NotchRing13" NotchRingPosition="20" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-22T00:00:00" Indicator="ABIJV" NumericIndicator="28098" StartPosition="QBXXGWMO" Check="KUMTWFSYAC">
+      <Rotors>
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="33" NotchRingName="NotchRing4" NotchRingPosition="18" />
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="29" NotchRingName="NotchRing13" NotchRingPosition="14" />
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="9" NotchRingName="NotchRing11" NotchRingPosition="29" />
+        <RotorSetting RotorName="RotorA" AlphabetRingPosition="15" NotchRingName="NotchRing3" NotchRingPosition="2" />
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="20" NotchRingName="NotchRing6" NotchRingPosition="2" />
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="7" NotchRingName="NotchRing1" NotchRingPosition="2" />
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="14" NotchRingName="NotchRing16" NotchRingPosition="23" />
+        <RotorSetting RotorName="RotorO" AlphabetRingPosition="3" NotchRingName="NotchRing10" NotchRingPosition="28" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-23T00:00:00" Indicator="SEOUS" NumericIndicator="40024" StartPosition="KFCFSSWH" Check="MTYWTLNJWO">
+      <Rotors>
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="6" NotchRingName="NotchRing9" NotchRingPosition="3" />
+        <RotorSetting RotorName="RotorK" AlphabetRingPosition="10" NotchRingName="NotchRing4" NotchRingPosition="28" />
+        <RotorSetting RotorName="RotorH" AlphabetRingPosition="28" NotchRingName="NotchRing12" NotchRingPosition="28" />
+        <RotorSetting RotorName="RotorN" AlphabetRingPosition="27" NotchRingName="NotchRing15" NotchRingPosition="1" />
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="29" NotchRingName="NotchRing14" NotchRingPosition="21" />
+        <RotorSetting RotorName="RotorO" AlphabetRingPosition="33" NotchRingName="NotchRing11" NotchRingPosition="22" />
+        <RotorSetting RotorName="RotorA" AlphabetRingPosition="34" NotchRingName="NotchRing7" NotchRingPosition="13" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="32" NotchRingName="NotchRing16" NotchRingPosition="7" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-24T00:00:00" Indicator="XTKWW" NumericIndicator="76882" StartPosition="VOCUDDCO" Check="OUYKFKHGYS">
+      <Rotors>
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="18" NotchRingName="NotchRing14" NotchRingPosition="14" />
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="24" NotchRingName="NotchRing12" NotchRingPosition="17" />
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="11" NotchRingName="NotchRing2" NotchRingPosition="14" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="6" NotchRingName="NotchRing1" NotchRingPosition="12" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="26" NotchRingName="NotchRing6" NotchRingPosition="2" />
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="16" NotchRingName="NotchRing7" NotchRingPosition="21" />
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="8" NotchRingName="NotchRing15" NotchRingPosition="2" />
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="12" NotchRingName="NotchRing8" NotchRingPosition="4" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-25T00:00:00" Indicator="PWMXE" NumericIndicator="69294" StartPosition="OZCYWHPU" Check="DHOLVVLIPO">
+      <Rotors>
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="35" NotchRingName="NotchRing2" NotchRingPosition="15" />
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="28" NotchRingName="NotchRing16" NotchRingPosition="33" />
+        <RotorSetting RotorName="RotorO" AlphabetRingPosition="2" NotchRingName="NotchRing12" NotchRingPosition="4" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="35" NotchRingName="NotchRing15" NotchRingPosition="20" />
+        <RotorSetting RotorName="RotorA" AlphabetRingPosition="31" NotchRingName="NotchRing13" NotchRingPosition="20" />
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="32" NotchRingName="NotchRing8" NotchRingPosition="12" />
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="11" NotchRingName="NotchRing7" NotchRingPosition="4" />
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="6" NotchRingName="NotchRing9" NotchRingPosition="23" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-26T00:00:00" Indicator="TGIUS" NumericIndicator="02396" StartPosition="ZZAWJXJU" Check="OKCIKBCQFB">
+      <Rotors>
+        <RotorSetting RotorName="RotorJ" AlphabetRingPosition="0" NotchRingName="NotchRing2" NotchRingPosition="18" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="10" NotchRingName="NotchRing12" NotchRingPosition="13" />
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="20" NotchRingName="NotchRing14" NotchRingPosition="16" />
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="17" NotchRingName="NotchRing11" NotchRingPosition="31" />
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="25" NotchRingName="NotchRing15" NotchRingPosition="26" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="14" NotchRingName="NotchRing7" NotchRingPosition="6" />
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="14" NotchRingName="NotchRing8" NotchRingPosition="29" />
+        <RotorSetting RotorName="RotorN" AlphabetRingPosition="21" NotchRingName="NotchRing10" NotchRingPosition="21" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-27T00:00:00" Indicator="GVKJL" NumericIndicator="93957" StartPosition="JJIBLQVZ" Check="CUKRUMFMDP">
+      <Rotors>
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="12" NotchRingName="NotchRing6" NotchRingPosition="14" />
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="25" NotchRingName="NotchRing11" NotchRingPosition="1" />
+        <RotorSetting RotorName="RotorA" AlphabetRingPosition="18" NotchRingName="NotchRing12" NotchRingPosition="31" />
+        <RotorSetting RotorName="RotorN" AlphabetRingPosition="7" NotchRingName="NotchRing7" NotchRingPosition="14" />
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="30" NotchRingName="NotchRing15" NotchRingPosition="29" />
+        <RotorSetting RotorName="RotorK" AlphabetRingPosition="6" NotchRingName="NotchRing8" NotchRingPosition="21" />
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="14" NotchRingName="NotchRing13" NotchRingPosition="19" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="26" NotchRingName="NotchRing5" NotchRingPosition="7" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-28T00:00:00" Indicator="OUHTA" NumericIndicator="04037" StartPosition="PUXKCBLT" Check="VFMJZJVTVJ">
+      <Rotors>
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="4" NotchRingName="NotchRing16" NotchRingPosition="23" />
+        <RotorSetting RotorName="RotorO" AlphabetRingPosition="29" NotchRingName="NotchRing11" NotchRingPosition="5" />
+        <RotorSetting RotorName="RotorH" AlphabetRingPosition="28" NotchRingName="NotchRing6" NotchRingPosition="27" />
+        <RotorSetting RotorName="RotorN" AlphabetRingPosition="26" NotchRingName="NotchRing3" NotchRingPosition="12" />
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="8" NotchRingName="NotchRing12" NotchRingPosition="29" />
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="0" NotchRingName="NotchRing14" NotchRingPosition="25" />
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="5" NotchRingName="NotchRing13" NotchRingPosition="26" />
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="28" NotchRingName="NotchRing4" NotchRingPosition="11" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-29T00:00:00" Indicator="RAWIS" NumericIndicator="90357" StartPosition="CGQCROAU" Check="TAOZOLLROZ">
+      <Rotors>
+        <RotorSetting RotorName="RotorG" AlphabetRingPosition="24" NotchRingName="NotchRing10" NotchRingPosition="12" />
+        <RotorSetting RotorName="RotorH" AlphabetRingPosition="8" NotchRingName="NotchRing15" NotchRingPosition="16" />
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="32" NotchRingName="NotchRing14" NotchRingPosition="25" />
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="32" NotchRingName="NotchRing6" NotchRingPosition="1" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="11" NotchRingName="NotchRing4" NotchRingPosition="23" />
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="23" NotchRingName="NotchRing5" NotchRingPosition="4" />
+        <RotorSetting RotorName="RotorK" AlphabetRingPosition="0" NotchRingName="NotchRing16" NotchRingPosition="11" />
+        <RotorSetting RotorName="RotorC" AlphabetRingPosition="9" NotchRingName="NotchRing8" NotchRingPosition="4" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-30T00:00:00" Indicator="HRIEA" NumericIndicator="63279" StartPosition="KCDNIDTX" Check="YHNZXWFDTD">
+      <Rotors>
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="14" NotchRingName="NotchRing2" NotchRingPosition="4" />
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="26" NotchRingName="NotchRing6" NotchRingPosition="3" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="14" NotchRingName="NotchRing1" NotchRingPosition="27" />
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="21" NotchRingName="NotchRing11" NotchRingPosition="10" />
+        <RotorSetting RotorName="RotorN" AlphabetRingPosition="20" NotchRingName="NotchRing15" NotchRingPosition="17" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="18" NotchRingName="NotchRing5" NotchRingPosition="22" />
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="26" NotchRingName="NotchRing16" NotchRingPosition="8" />
+        <RotorSetting RotorName="RotorD" AlphabetRingPosition="17" NotchRingName="NotchRing9" NotchRingPosition="6" />
+      </Rotors>
+    </Settings>
+    <Settings Date="2017-01-31T00:00:00" Indicator="JPIGH" NumericIndicator="74517" StartPosition="TDTUQHKA" Check="GMMLKAWUQJ">
+      <Rotors>
+        <RotorSetting RotorName="RotorA" AlphabetRingPosition="8" NotchRingName="NotchRing11" NotchRingPosition="25" />
+        <RotorSetting RotorName="RotorP" AlphabetRingPosition="5" NotchRingName="NotchRing4" NotchRingPosition="5" />
+        <RotorSetting RotorName="RotorE" AlphabetRingPosition="23" NotchRingName="NotchRing8" NotchRingPosition="24" />
+        <RotorSetting RotorName="RotorM" AlphabetRingPosition="15" NotchRingName="NotchRing16" NotchRingPosition="31" />
+        <RotorSetting RotorName="RotorB" AlphabetRingPosition="28" NotchRingName="NotchRing5" NotchRingPosition="26" />
+        <RotorSetting RotorName="RotorL" AlphabetRingPosition="13" NotchRingName="NotchRing2" NotchRingPosition="18" />
+        <RotorSetting RotorName="RotorI" AlphabetRingPosition="34" NotchRingName="NotchRing12" NotchRingPosition="29" />
+        <RotorSetting RotorName="RotorF" AlphabetRingPosition="19" NotchRingName="NotchRing1" NotchRingPosition="8" />
+      </Rotors>
+    </Settings>
+  </DailySettings>
+</MonthlySettings>
